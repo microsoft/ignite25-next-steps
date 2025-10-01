@@ -4,9 +4,17 @@
 
 # [Microsoft Ignite 2025](https://ignite.microsoft.com)
 
-## 🔥 Microsoft Ignite 2025 Next Steps
+
+## �🔥 Microsoft Ignite 2025 Next Steps
 
 After attending Ignite 2025, your next steps to continue your learning journey include the resources below. You'll find repositories with shared code and guidance for each of the Labs offered at Ignite, as well as  Microsoft Learn content featured in Collections and Plans for continued learning in your own environment. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources to further your knowledge and apply what you've learned in practical scenarios.
+
+| [Cloud and AI Platforms](#cloud-and-ai-platforms) | [Security](#security) | [AI Business Solutions](#ai-business-solutions) | [Industry](#industry) |
+|:-----------------------------------------------:|:---------------------:|:-------------------------------:|:---------:|
+| [Migrate and modernize your estate](#migrate-and-modernize-your-estate) | [Modernize SecOps with unified platform](#modernize-secops-with-unified-platform) | [Copilot and agents at work](#copilot-and-agents-at-work) | [Healthcare Agents](#lab595-build-agents-for-healthcare-that-support-safety-and-accuracy) |
+| [Innovate with Azure AI apps and agents](#innovate-with-azure-ai-apps-and-agents) | [Protect cloud AI platform and apps](#protect-cloud-ai-platform-and-apps) | [Innovate with low-code AI and agents](#innovate-with-low-code-ai-and-agents) | [Healthcare AI Models](#lab596-working-with-healthcare-ai-models-from-set-up-to-use-case) |
+| [Unify your data platform](#unify-your-data-platform) | [Secure your data](#secure-your-data) | [Scale with cloud and AI endpoints](#scale-with-cloud-and-ai-endpoints) | [Geospatial Intelligence](#lab597-make-more-informed-decisions-with-geospatial-intelligence) |
+| [Pre-Day](#pre-day) | [Pre-Day](#pre-day) | [Agentic business applications](#agentic-business-applications) | [Multi-Agent Orchestration](#lab598-agentic-ai-in-healthcare-multi-agent-orchestration-in-action) |
 
 ## CLOUD AND AI PLATFORMS
 
