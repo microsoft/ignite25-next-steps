@@ -4,28 +4,115 @@
 
 # [Microsoft Ignite 2025](https://ignite.microsoft.com)
 
-## 🔥Ignite 2025 Next Steps
+## 🔥 Microsoft Ignite 2025 Next Steps
 
-[![Microsoft Azure AI Foundry Discord](https://dcbadge.limes.pink/api/server/ByRwuEEgH4)](https://discord.com/invite/ByRwuEEgH4)
-[![Azure AI Foundry Developer Forum](https://img.shields.io/badge/GitHub-Azure_AI_Foundry_Developer_Forum-blue?style=for-the-badge&logo=github&color=adff2f&logoColor=fff)](https://aka.ms/foundry/forum)
+After attending Ignite 2025, your next steps to continue your learning journey include the resources below. You'll find repositories with shared code and guidance for each of the Labs offered at Ignite, as well as  Microsoft Learn content featured in Collections and Plans for continued learning in your own environment. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources to further your knowledge and apply what you've learned in practical scenarios.
 
-### Session Description
+## CLOUD AND AI PLATFORMS
 
-*Add Session Description*
+### Migrate and modernize your estate
+- [LAB500 Unified observability & optimization with Azure operations platform](https://aka.ms/ignite25-LAB500GHrepo)
+- [LAB501 Modernizing ASP.NET Applications with Azure Migrate and GitHub Copilot](https://aka.ms/ignite25-LAB501GHrepo)
+- [LAB502 Migrate to AKS Automatic with GitHub Copilot for App Modernization](https://aka.ms/ignite25-LAB502GHrepo)
+- [LAB503 AVS from Migration and Optimization to Modernization](https://aka.ms/ignite25-LAB503GHrepo)
+- [LAB504 Connect, secure and manage hybrid, multicloud and edge with Azure Arc](https://aka.ms/ignite25-LAB504GHrepo)
+- [LAB505 Fast track your Linux migration journey with Azure Migrate - Infrastructure](https://aka.ms/ignite25-LAB505GHrepo)
+- [LAB506 Migrate and Modernize Windows and SQL Server Workloads to Azure](https://aka.ms/ignite25-LAB506GHrepo)
+- [LAB520 Test your resiliency posture: Goals, Drills, Recovery Orchestration](https://aka.ms/ignite25-LAB520GHrepo)
 
-### 🧠 Learning Outcomes
+### Innovate with Azure AI apps and agents
+- [LAB510 The Power of GitHub Copilot in VS Code](https://aka.ms/ignite25-LAB510GHrepo)
+- [LAB511 Build Knowledge Agents: Next-Level Agentic RAG with Azure AI Search](https://aka.ms/ignite25-LAB511GHrepo)
+- [LAB512 Prototyping multimodal agents with Azure AI Foundry and the AI Toolkit](https://aka.ms/ignite25-LAB512GHrepo)
+- [LAB513 Build A2A and MCP Systems using SWE Agents and agent-framework](https://aka.ms/ignite25-LAB513GHrepo)
+- [LAB514 Build and deploy AI agents with MCP and Azure Functions](https://aka.ms/ignite25-LAB514GHrepo)
+- [LAB515 Build advanced AI Agents with PostgreSQL](https://aka.ms/ignite25-LAB515GHrepo)
+- [LAB516 Safeguard your agents with AI Red Teaming Agent in Azure AI Foundry](https://aka.ms/ignite25-LAB516GHrepo)
+- [LAB517 Next-Gen AKS Operations with Models, and Agents, and MCPs (oh my!)](https://aka.ms/ignite25-LAB517GHrepo)
+- [LAB518 Multi-Agent Apps with Microsoft Agent Framework or LangGraph](https://aka.ms/ignite25-LAB518GHrepo)
+- [LAB519 Governing AI Apps & Agents with AI Gateway in Azure API Management](https://aka.ms/ignite25-LAB519GHrepo)
+- [LAB571 Build a Pizza Ordering Agent with Azure AI Foundry and MCP](https://aka.ms/ignite25-LAB571GHrepo)
 
-By the end of this session, learners will be able to:
+### Unify your data platform
+- [LAB530 Build new AI Applications with Azure SQL Databases](https://aka.ms/ignite25-LAB530GHrepo)
+- [LAB531 Accelerate BI with Azure Databricks in the era of AI](https://aka.ms/ignite25-LAB531GHrepo)
+- [LAB532 Get Real with Real-Time Intelligence to Transform Data into Action](https://aka.ms/ignite25-LAB532GHrepo)
+- [LAB533 Develop Scalable Data Solutions with SQL Database in Microsoft Fabric](https://aka.ms/ignite25-LAB533GHrepo)
+- [LAB534 Build real‑time analytics with Cosmos DB in Microsoft Fabric](https://aka.ms/ignite25-LAB534GHrepo)
+- [LAB535 Azure Databricks in Action: Unified AI & Analytics Across Microsoft](https://aka.ms/ignite25-LAB535GHrepo)
 
--  
--
--
+### Pre-Day
+- [PREL13 Observe, manage, and scale agentic AI apps with Azure AI Foundry](https://aka.ms/ignite25-PREL13GHrepo)
+- [PREL14 Unify data, act on insights, and build AI solutions with Microsoft...](https://aka.ms/ignite25-PREL14GHrepo)
+- [PREL15 AI-Ready Apps: Containerize and Modernize with Azure](https://aka.ms/ignite25-PREL15GHrepo)
+- [PREL19 An IT Pro's guide to Deploying and managing AI applications](https://aka.ms/ignite25-PREL19GHrepo)
+- [PREL20 Modernize IT Estate: A Hands-On Workshop for Portfolio Transformation](https://aka.ms/ignite25-PREL20GHrepo)
 
-### 💻 Technologies Used
+## SECURITY
 
-1.
-1.
-1.
+### Modernize SecOps with unified platform
+- [LAB540 Microsoft Purview Integration with Microsoft Defender XDR](https://aka.ms/ignite25-LAB540GHrepo)
+- [LAB541 Defend against threats with Microsoft Defender XDR](https://aka.ms/ignite25-LAB541GHrepo)
+- [LAB542 Zero Trust Lab: Securing Identities and Devices with Intune & Entra](https://aka.ms/ignite25-LAB542GHrepo)
+- [LAB543 Perform threat hunting in Microsoft Sentinel](https://aka.ms/ignite25-LAB543GHrepo)
+- [LAB549 Strengthen your identity security posture with Conditional Access](https://aka.ms/ignite25-LAB549GHrepo)
+
+### Protect cloud AI platform and apps
+- [LAB544 Govern identities with confidence using Microsoft Entra](https://aka.ms/ignite25-LAB544GHrepo)
+- [LAB550 Mitigating cloud threats with Microsoft Defender for Cloud](https://aka.ms/ignite25-LAB550GHrepo)
+- [LAB551 Maximizing Cloud Security: CSPM in Microsoft Defender Cloud](https://aka.ms/ignite25-LAB551GHrepo)
+
+### Secure your data
+- [LAB545 Create and Manage sensitive information types and labels](https://aka.ms/ignite25-LAB545GHrepo)
+- [LAB546 Securing the Stack: Zero Trust for Data, Infra, Network & SOC](https://aka.ms/ignite25-LAB546GHrepo)
+- [LAB547 Implement Insider Risk Management and Adaptive Protection](https://aka.ms/ignite25-LAB547GHrepo)
+- [LAB548 Implement and Manage Data Loss Prevention policies](https://aka.ms/ignite25-LAB548GHrepo)
+
+### Pre-Day
+- [PREL18 Secure Your M365 Tenant – From Defaults to AI-Ready](https://aka.ms/ignite25-PREL18GHrepo)
+
+## AI BUSINESS SOLUTIONS
+
+### Copilot and agents at work
+- [LAB560 Building Declarative Agents with TypeSpec and M365 Agents Toolkit](https://aka.ms/ignite25-LAB560GHrepo)
+- [LAB562 Jumpstart AI-powered HR and IT support with Employee Self-Service Agent](https://aka.ms/ignite25-LAB562GHrepo)
+- [LAB564 Architect a Goal-Driven AI Agent with Copilot Studio](https://aka.ms/ignite25-LAB564GHrepo)
+- [LAB565 Makers in action: crafting Microsoft 365 Copilot Agents for real-world](https://aka.ms/ignite25-LAB565GHrepo)
+- [LAB568 Deep Dive into Teams Admin Center & Security Innovations](https://aka.ms/ignite25-LAB568GHrepo)
+
+### Innovate with low-code AI and agents
+- [LAB570 Building agentic solutions with Copilot Studio](https://aka.ms/ignite25-LAB570GHrepo)
+- [LAB572 Automate your enterprise workflows with MCP Tools](https://aka.ms/ignite25-LAB572GHrepo)
+- [LAB573 Building Intelligent AI Solutions with Copilot Studio & Azure AI](https://aka.ms/ignite25-LAB573GHrepo)
+
+### Scale with cloud and AI endpoints
+- [LAB580 Windows 365 Reserve: Fast, flexible, and ready for anything](https://aka.ms/ignite25-LAB580GHrepo)
+- [LAB581 Windows 365 Frontline: Explore dedicated, shared, cloud apps](https://aka.ms/ignite25-LAB581GHrepo)
+- [LAB582 Windows 365 deployment lab: Cloud native, Zero Trust, fully ready](https://aka.ms/ignite25-LAB582GHrepo)
+- [LAB583 Manage AI capabilities for Copilot+ PCs and Windows 11](https://aka.ms/ignite25-LAB583GHrepo)
+- [LAB584 Integrating Local AI with Windows ML](https://aka.ms/ignite25-LAB584GHrepo)
+- [LAB585 Supercharge Your WPF Apps with Local AI](https://aka.ms/ignite25-LAB585GHrepo)
+- [LAB586 Building agentic experiences for your apps using MCP on Windows](https://aka.ms/ignite25-LAB586GHrepo)
+- [LAB587 Windows 365 AI Lab: Semantic, Federated search & Click2Do in action](https://aka.ms/ignite25-LAB587GHrepo)
+
+### Agentic business applications
+- [LAB590 Building collaborative agents in Microsoft Teams with Teams AI library](https://aka.ms/ignite25-LAB590GHrepo)
+
+### Pre-Day
+- [PREL17 Controlling Costs & Complexity: Managing Copilot and Agent Lifecycle](https://aka.ms/ignite25-PREL17GHrepo)
+
+## INDUSTRY
+
+- [LAB595 Build agents for healthcare that support safety and accuracy](https://aka.ms/ignite25-LAB595GHrepo)
+- [LAB596 Working with healthcare AI models: from set-up to use-case](https://aka.ms/ignite25-LAB596GHrepo)
+- [LAB597 Make More Informed Decisions with Geospatial Intelligence](https://aka.ms/ignite25-LAB597GHrepo)
+- [LAB598 Agentic AI in Healthcare: Multi-Agent Orchestration in Action](https://aka.ms/ignite25-LAB598GHrepo)
+
+## CROSS-SOLUTION
+
+### Pre-Day
+- [PREL16 Semantic Memory for Multi-Agent Apps in AI Foundry with Cosmos DB](https://aka.ms/ignite25-PREL16GHrepo)
+
 
 ### 🌟 Microsoft Learn MCP Server
 
@@ -55,14 +142,14 @@ For more information, setup instructions for other dev clients, and to post comm
 <table>
 <tr>
     <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE"
+        <img src="https://github.com/mikekinsman.png" width="100px;" alt="Mike Kinsman
 "/><br />
         <sub><b> INSERT NAME HERE
 </b></sub></a><br />
             <a href="https://github.com/mikekinsman" title="talk">📢</a> 
     </td>
-    <td align="center"><a href="http://github.com/mikekinsman">
-        <img src="https://github.com/mikekinsman.png" width="100px;" alt="INSERT NAME HERE
+    <td align="center"><a href="http://github.com/raelyon">
+        <img src="https://github.com/raelyon.png" width="100px;" alt="Rae Lyon
 "/><br />
         <sub><b>INSERT NAME HERE
 </b></sub></a><br />
