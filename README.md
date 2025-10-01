@@ -11,6 +11,12 @@ After attending Ignite 2025, your next steps to continue your learning journey i
 ## CLOUD AND AI PLATFORMS
 
 ### Migrate and modernize your estate
+
+#### Migrate and moderinize your estate Learn Plan
+- [link to plan]
+
+#### Migrate and moderinize your estate Ignite Labs
+
 - [LAB500 Unified observability & optimization with Azure operations platform](https://aka.ms/ignite25-LAB500GHrepo)
 - [LAB501 Modernizing ASP.NET Applications with Azure Migrate and GitHub Copilot](https://aka.ms/ignite25-LAB501GHrepo)
 - [LAB502 Migrate to AKS Automatic with GitHub Copilot for App Modernization](https://aka.ms/ignite25-LAB502GHrepo)
