@@ -6,10 +6,6 @@
 
 After attending Microsoft Ignite 2025, your next steps to continue your learning journey include the resources below. You'll find repositories with shared code and guidance for each of the Labs offered at Ignite, as well as Microsoft Learn content featured in Collections and Plans for continued learning in your own environment. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources to further your knowledge and apply what you've learned in practical scenarios.
 
-## 🔥 Microsoft Ignite 2025 Next Steps
-
-After attending Microsoft Ignite 2025, your next steps to continue your learning journey include the resources below. You'll find repositories with shared code and guidance for each of the Labs offered at Ignite, as well as Microsoft Learn content featured in Collections and Plans for continued learning in your own environment. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources to further your knowledge and apply what you've learned in practical scenarios.
-
 ## Topics by Solution Area
 
 | CLOUD AND AI PLATFORMS | SECURITY | AI BUSINESS SOLUTIONS |
