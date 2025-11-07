@@ -8,17 +8,19 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 
 ## Topics by Solution Area
 
-| CLOUD AND AI PLATFORMS | SECURITY | AI BUSINESS SOLUTIONS | ADDITIONAL TOPICS |
-| --- | --- | --- | --- |
-| [Innovate with Azure AI apps and agents](#innovate-with-azure-ai-apps-and-agents) | [Modernize SecOps with a unified platform](#modernize-secops-with-a-unified-platform) | [Agentic business applications](#agentic-business-applications) | [Microsoft AI Cloud Partner Program](#microsoft-ai-cloud-partner-program) |
-| [Migrate and modernize your estate](#migrate-and-modernize-your-estate) | [Protect cloud AI platform and apps](#protect-cloud-ai-platform-and-apps) | [Copilot and agents at work](#copilot-and-agents-at-work) | [Other](#other) |
-| [Unify your data platform](#unify-your-data-platform) | [Secure your data](#secure-your-data) | [Innovate with low-code AI and agents](#innovate-with-low-code-ai-and-agents) |  |
-|  |  | [Scale with cloud and AI endpoints](#scale-with-cloud-and-ai-endpoints) |  |
+| CLOUD AND AI PLATFORMS | SECURITY | AI BUSINESS SOLUTIONS |
+| --- | --- | --- |
+| [Innovate with Azure AI apps and agents](#innovate-with-azure-ai-apps-and-agents) | [Modernize SecOps with a unified platform](#modernize-secops-with-a-unified-platform) | [Agentic business applications](#agentic-business-applications) |
+| [Migrate and modernize your estate](#migrate-and-modernize-your-estate) | [Protect cloud AI platform and apps](#protect-cloud-ai-platform-and-apps) | [Copilot and agents at work](#copilot-and-agents-at-work) |
+| [Unify your data platform](#unify-your-data-platform) | [Secure your data](#secure-your-data) | [Innovate with low-code AI and agents](#innovate-with-low-code-ai-and-agents) |
+|  |  | [Scale with cloud and AI endpoints](#scale-with-cloud-and-ai-endpoints) |
 
 
 ### Microsoft Learn plans
 
 - [THR814 - Becoming Frontier: Empowering AI adoption through skills development](https://aka.ms/ignite25-plans-BecomingFrontier)
+- THR815 - *link coming soon*
+- THR816 - *link coming soon*
 
 ## CLOUD AND AI PLATFORMS
 
@@ -26,25 +28,27 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 
 #### Labs Repositories
 
-- [LAB510 - The Power Of Github Copilot In Vs Code](https://github.com/microsoft/ignite25-LAB510-the-power-of-github-copilot-in-vs-code) *Presenters: [April Yoho](https://ignite.microsoft.com/speakers/9e854795-ba86-4696-9c16-525253321a1c), [Tiago Pascoal](https://ignite.microsoft.com/speakers/213c7163-0c91-4725-8dd0-1f19e2bc1f63)*
-- [LAB511 - Build Agentic Knowledge Bases Next Level Rag With Azure Ai Search](https://github.com/microsoft/ignite25-LAB511-build-agentic-knowledge-bases-next-level-rag-with-azure-ai-search) *Presenters: [Ayca Bas](https://ignite.microsoft.com/speakers/1be98f62-108f-4f2c-b85b-b6d15a6a40e4), [Pamela Fox](https://ignite.microsoft.com/speakers/2c5619ae-165a-404a-b9d1-5d87173f921d)*
-- [LAB512 - Prototyping Multimodal Agents With Azure Ai Foundry And The Ai Toolkit](https://github.com/microsoft/ignite25-LAB512-prototyping-multimodal-agents-with-azure-ai-foundry-and-the-ai-toolkit) *Presenters: [Carlotta Castelluccio](https://ignite.microsoft.com/speakers/c9ecf38c-4eaf-4a50-8b82-b558829ce22d), [David Smith](https://ignite.microsoft.com/speakers/ce5a605f-bfb4-c90c-6d96-01c66cde65e9)*
-- [LAB513 - Build A2A And Mcp Systems Using Swe Agents And Agent Framework](https://github.com/microsoft/ignite25-LAB513-build-a2a-and-mcp-systems-using-swe-agents-and-agent-framework) *Presenters: [Govind Kamtamneni](https://ignite.microsoft.com/speakers/5430ebe9-5a47-4252-82d6-3a3fc8dab79d), [Mark Wallace](https://ignite.microsoft.com/speakers/4b233adb-50e6-4006-9c09-d284fd98b939)*
-- [LAB514 - Build And Deploy Ai Agents With Mcp And Azure Functions](https://github.com/microsoft/ignite25-LAB514-build-and-deploy-ai-agents-with-mcp-and-azure-functions) *Presenters: [Chris Gillum](https://ignite.microsoft.com/speakers/84647ab1-694d-48b5-abb4-30b11746d775), [Nick Greenfield](https://ignite.microsoft.com/speakers/68654442-c174-4399-9f87-3c4b75dfb6e9)*
-- [LAB515 - Build Advanced Ai Agents With Postgresql](https://github.com/microsoft/ignite25-LAB515-build-advanced-ai-agents-with-postgresql) *Presenters: [Jared Meade](https://ignite.microsoft.com/speakers/79b26f66-cbb1-4eaf-89ec-01bc27c0edd6), [Jonathon Frost](https://ignite.microsoft.com/speakers/69285f55-5a1f-4e77-89a4-d8f571f00eae)*
-- [LAB516 - Safeguard Your Agents With Ai Red Teaming Agent In Azure Ai Foundry](https://github.com/microsoft/ignite25-LAB516-safeguard-your-agents-with-ai-red-teaming-agent-in-azure-ai-foundry) *Presenters: [Minsoo Thigpen](https://ignite.microsoft.com/speakers/99c6a320-8b3c-48a2-b219-fae65d271e71), [Nitya Narasimhan](https://ignite.microsoft.com/speakers/5cee57d1-8f41-453c-b44e-dc685d29a6a4)*
-- [LAB517 - Next Gen Aks Operations With Models And Agents And Mcps Oh My](https://github.com/microsoft/ignite25-LAB517-next-gen-aks-operations-with-models-and-agents-and-mcps-oh-my) *Presenters: [Paul Yu](https://ignite.microsoft.com/speakers/e2dc4225-7e09-4aee-b0b4-54ecf2ee0d4b), [Pavneet Singh Ahluwalia](https://ignite.microsoft.com/speakers/030c356a-d9e0-4112-9b6d-bb2f678cb3a1)*
-- [LAB518 - Multi Agent Apps With Microsoft Agent Framework Or Langgraph](https://github.com/microsoft/ignite25-LAB518-multi-agent-apps-with-microsoft-agent-framework-or-langgraph) *Presenters: [Sandeep Nair](https://ignite.microsoft.com/speakers/f2e30961-7975-4079-8661-47a2621a9c08), [Theo van Kraay](https://ignite.microsoft.com/speakers/327a8eff-39b4-408c-8ed0-cc41fa707dee)*
-- [LAB519 - Governing Ai Apps Agents With Ai Gateway In Azure Api Management](https://github.com/microsoft/ignite25-LAB519-governing-ai-apps-agents-with-ai-gateway-in-azure-api-management) *Presenters: [Annaji sharma Ganti](https://ignite.microsoft.com/speakers/9d956644-ae3e-41c8-b9e5-4a8808ffb555), [Galin Iliev](https://ignite.microsoft.com/speakers/b492bd9e-49d4-4ee0-b351-d43c59bbe35f)*
-- [LAB571 - Build A Pizza Ordering Agent With Azure Ai Foundry And Mcp](https://github.com/microsoft/ignite25-LAB571-build-a-pizza-ordering-agent-with-azure-ai-foundry-and-mcp) *Presenters: [Gustavo Cordido](https://ignite.microsoft.com/speakers/50f5a1ea-b2f3-44ab-95df-fdb5dc04431a), [Henk Boelman](https://ignite.microsoft.com/speakers/64b2e8e6-c121-44ce-9f14-f6a441103dff)*
-- [LAB596 - Working With Healthcare Ai Models From Set Up To Use Case](https://github.com/microsoft/ignite25-LAB596-working-with-healthcare-ai-models-from-set-up-to-use-case) *Presenters: [Ivan Tarapov](https://ignite.microsoft.com/speakers/d9064f07-c642-4a4a-acf2-fb7b32c27ff6), [Jameson Merkow](https://ignite.microsoft.com/speakers/14d221f2-05e0-49e4-94cb-eddae14138d4)*
-- [LAB598 - Agentic Ai In Healthcare Multi Agent Orchestration In Action](https://github.com/microsoft/ignite25-LAB598-agentic-ai-in-healthcare-multi-agent-orchestration-in-action) *Presenters: [Frank Tuan](https://ignite.microsoft.com/speakers/9b53cafa-54be-4910-a466-06663bc51b1d), [Leonardo Schettini](https://ignite.microsoft.com/speakers/6e125b72-5be6-4789-86ad-f451afd72068)*
-- [PREL13 - Observe Manage And Scale Agentic Ai Apps With Azure Ai Foundry](https://github.com/microsoft/ignite25-PREL13-observe-manage-and-scale-agentic-ai-apps-with-azure-ai-foundry) *Presenters: [Bethany Jepchumba](https://ignite.microsoft.com/speakers/d70cd9fb-1aad-4593-b112-4ddec6584a4d), [Nitya Narasimhan](https://ignite.microsoft.com/speakers/5cee57d1-8f41-453c-b44e-dc685d29a6a4)*
-- [PREL15 - Ai Ready Apps Containerize And Modernize With Azure](https://github.com/microsoft/ignite25-PREL15-ai-ready-apps-containerize-and-modernize-with-azure) *Presenters: [Brian Benz](https://ignite.microsoft.com/speakers/f0cb92fb-8c80-42dc-8fa8-15ee0ae62807), [Simon Jakesch](https://ignite.microsoft.com/speakers/e5a343f6-3f87-4feb-8ee9-0e9be3483e98)*
-- [PREL16 - Semantic Memory For Multi Agent Apps In Ai Foundry With Cosmos Db](https://github.com/microsoft/ignite25-PREL16-semantic-memory-for-multi-agent-apps-in-ai-foundry-with-cosmos-db) *Presenters: [Aayush Kataria](https://ignite.microsoft.com/speakers/56b9a96d-b51f-4e42-b475-3109da0509ac), [Theo van Kraay](https://ignite.microsoft.com/speakers/327a8eff-39b4-408c-8ed0-cc41fa707dee)*
-- [PREL19 - An It Pros Guide To Deploying And Managing Ai Applications](https://github.com/microsoft/ignite25-PREL19-an-it-pros-guide-to-deploying-and-managing-ai-applications) *Presenters: [Bilal Amjad](https://ignite.microsoft.com/speakers/eb665aff-e65e-c8bc-9fc0-e866198e0a3e), [Pierre Roman](https://ignite.microsoft.com/speakers/961e8b2e-5e11-4c5e-a06d-41779499a540), Vinicius Apolinario @vrapolinario*
+| Lab | Presenters |
+| --- | --- |
+| [LAB510 - The Power Of Github Copilot In Vs Code](https://github.com/microsoft/ignite25-LAB510-the-power-of-github-copilot-in-vs-code) | [April Yoho](https://ignite.microsoft.com/speakers/9e854795-ba86-4696-9c16-525253321a1c), [Tiago Pascoal](https://ignite.microsoft.com/speakers/213c7163-0c91-4725-8dd0-1f19e2bc1f63) |
+| [LAB511 - Build Agentic Knowledge Bases Next Level Rag With Azure Ai Search](https://github.com/microsoft/ignite25-LAB511-build-agentic-knowledge-bases-next-level-rag-with-azure-ai-search) | [Ayca Bas](https://ignite.microsoft.com/speakers/1be98f62-108f-4f2c-b85b-b6d15a6a40e4), [Pamela Fox](https://ignite.microsoft.com/speakers/2c5619ae-165a-404a-b9d1-5d87173f921d) |
+| [LAB512 - Prototyping Multimodal Agents With Azure Ai Foundry And The Ai Toolkit](https://github.com/microsoft/ignite25-LAB512-prototyping-multimodal-agents-with-azure-ai-foundry-and-the-ai-toolkit) | [Carlotta Castelluccio](https://ignite.microsoft.com/speakers/c9ecf38c-4eaf-4a50-8b82-b558829ce22d), [David Smith](https://ignite.microsoft.com/speakers/ce5a605f-bfb4-c90c-6d96-01c66cde65e9) |
+| [LAB513 - Build A2A And Mcp Systems Using Swe Agents And Agent Framework](https://github.com/microsoft/ignite25-LAB513-build-a2a-and-mcp-systems-using-swe-agents-and-agent-framework) | [Govind Kamtamneni](https://ignite.microsoft.com/speakers/5430ebe9-5a47-4252-82d6-3a3fc8dab79d), [Mark Wallace](https://ignite.microsoft.com/speakers/4b233adb-50e6-4006-9c09-d284fd98b939) |
+| [LAB514 - Build And Deploy Ai Agents With Mcp And Azure Functions](https://github.com/microsoft/ignite25-LAB514-build-and-deploy-ai-agents-with-mcp-and-azure-functions) | [Chris Gillum](https://ignite.microsoft.com/speakers/84647ab1-694d-48b5-abb4-30b11746d775), [Nick Greenfield](https://ignite.microsoft.com/speakers/68654442-c174-4399-9f87-3c4b75dfb6e9) |
+| [LAB515 - Build Advanced Ai Agents With Postgresql](https://github.com/microsoft/ignite25-LAB515-build-advanced-ai-agents-with-postgresql) | [Jared Meade](https://ignite.microsoft.com/speakers/79b26f66-cbb1-4eaf-89ec-01bc27c0edd6), [Jonathon Frost](https://ignite.microsoft.com/speakers/69285f55-5a1f-4e77-89a4-d8f571f00eae) |
+| [LAB516 - Safeguard Your Agents With Ai Red Teaming Agent In Azure Ai Foundry](https://github.com/microsoft/ignite25-LAB516-safeguard-your-agents-with-ai-red-teaming-agent-in-azure-ai-foundry) | [Minsoo Thigpen](https://ignite.microsoft.com/speakers/99c6a320-8b3c-48a2-b219-fae65d271e71), [Nitya Narasimhan](https://ignite.microsoft.com/speakers/5cee57d1-8f41-453c-b44e-dc685d29a6a4) |
+| [LAB517 - Next Gen Aks Operations With Models And Agents And Mcps Oh My](https://github.com/microsoft/ignite25-LAB517-next-gen-aks-operations-with-models-and-agents-and-mcps-oh-my) | [Paul Yu](https://ignite.microsoft.com/speakers/e2dc4225-7e09-4aee-b0b4-54ecf2ee0d4b), [Pavneet Singh Ahluwalia](https://ignite.microsoft.com/speakers/030c356a-d9e0-4112-9b6d-bb2f678cb3a1) |
+| [LAB518 - Multi Agent Apps With Microsoft Agent Framework Or Langgraph](https://github.com/microsoft/ignite25-LAB518-multi-agent-apps-with-microsoft-agent-framework-or-langgraph) | [Sandeep Nair](https://ignite.microsoft.com/speakers/f2e30961-7975-4079-8661-47a2621a9c08), [Theo van Kraay](https://ignite.microsoft.com/speakers/327a8eff-39b4-408c-8ed0-cc41fa707dee) |
+| [LAB519 - Governing Ai Apps Agents With Ai Gateway In Azure Api Management](https://github.com/microsoft/ignite25-LAB519-governing-ai-apps-agents-with-ai-gateway-in-azure-api-management) | [Annaji sharma Ganti](https://ignite.microsoft.com/speakers/9d956644-ae3e-41c8-b9e5-4a8808ffb555), [Galin Iliev](https://ignite.microsoft.com/speakers/b492bd9e-49d4-4ee0-b351-d43c59bbe35f) |
+| [LAB571 - Build A Pizza Ordering Agent With Azure Ai Foundry And Mcp](https://github.com/microsoft/ignite25-LAB571-build-a-pizza-ordering-agent-with-azure-ai-foundry-and-mcp) | [Gustavo Cordido](https://ignite.microsoft.com/speakers/50f5a1ea-b2f3-44ab-95df-fdb5dc04431a), [Henk Boelman](https://ignite.microsoft.com/speakers/64b2e8e6-c121-44ce-9f14-f6a441103dff) |
+| [LAB596 - Working With Healthcare Ai Models From Set Up To Use Case](https://github.com/microsoft/ignite25-LAB596-working-with-healthcare-ai-models-from-set-up-to-use-case) | [Ivan Tarapov](https://ignite.microsoft.com/speakers/d9064f07-c642-4a4a-acf2-fb7b32c27ff6), [Jameson Merkow](https://ignite.microsoft.com/speakers/14d221f2-05e0-49e4-94cb-eddae14138d4) |
+| [LAB598 - Agentic Ai In Healthcare Multi Agent Orchestration In Action](https://github.com/microsoft/ignite25-LAB598-agentic-ai-in-healthcare-multi-agent-orchestration-in-action) | [Frank Tuan](https://ignite.microsoft.com/speakers/9b53cafa-54be-4910-a466-06663bc51b1d), [Leonardo Schettini](https://ignite.microsoft.com/speakers/6e125b72-5be6-4789-86ad-f451afd72068) |
+| [PREL13 - Observe Manage And Scale Agentic Ai Apps With Azure Ai Foundry](https://github.com/microsoft/ignite25-PREL13-observe-manage-and-scale-agentic-ai-apps-with-azure-ai-foundry) | [Bethany Jepchumba](https://ignite.microsoft.com/speakers/d70cd9fb-1aad-4593-b112-4ddec6584a4d), [Nitya Narasimhan](https://ignite.microsoft.com/speakers/5cee57d1-8f41-453c-b44e-dc685d29a6a4) |
+| [PREL15 - Ai Ready Apps Containerize And Modernize With Azure](https://github.com/microsoft/ignite25-PREL15-ai-ready-apps-containerize-and-modernize-with-azure) | [Brian Benz](https://ignite.microsoft.com/speakers/f0cb92fb-8c80-42dc-8fa8-15ee0ae62807), [Simon Jakesch](https://ignite.microsoft.com/speakers/e5a343f6-3f87-4feb-8ee9-0e9be3483e98) |
+| [PREL16 - Semantic Memory For Multi Agent Apps In Ai Foundry With Cosmos Db](https://github.com/microsoft/ignite25-PREL16-semantic-memory-for-multi-agent-apps-in-ai-foundry-with-cosmos-db) | [Aayush Kataria](https://ignite.microsoft.com/speakers/56b9a96d-b51f-4e42-b475-3109da0509ac), [Theo van Kraay](https://ignite.microsoft.com/speakers/327a8eff-39b4-408c-8ed0-cc41fa707dee) |
+| [PREL19 - An It Pros Guide To Deploying And Managing Ai Applications](https://github.com/microsoft/ignite25-PREL19-an-it-pros-guide-to-deploying-and-managing-ai-applications) | [Bilal Amjad](https://ignite.microsoft.com/speakers/eb665aff-e65e-c8bc-9fc0-e866198e0a3e), [Pierre Roman](https://ignite.microsoft.com/speakers/961e8b2e-5e11-4c5e-a06d-41779499a540), Vinicius Apolinario @vrapolinario |
 
-#### Learning Plans
+#### Skilling Plans
 
 - [Build and deploy scalable AI apps on Azure Cosmos DB and Azure Kubernetes Service](https://aka.ms/ignite25-plans-AIAppsCosmosDB)
 - [Build and deploy scalable AI Apps on Azure Database for PostgreSQL](https://aka.ms/ignite25-plans-AIAppsPGSQL)
@@ -68,18 +72,28 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 
 #### Labs Repositories
 
-- [LAB500 - Unified Observability And Optimization With Azure Operations Platform](https://github.com/microsoft/ignite25-LAB500-unified-observability-and-optimization-with-azure-operations-platform) *Presenters: [Matthew McCleary](https://ignite.microsoft.com/speakers/5cbb669b-5849-42f3-9627-8c0a6e11e391), [Ritesh Kini](https://ignite.microsoft.com/speakers/4d32fa95-d07a-401e-a6d6-b879dd469f32)*
-- [LAB501 - Modernizing Aspnet Applications With Azure Migrate And Github Copilot](https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot) *Presenters: [Gaurav Seth](https://ignite.microsoft.com/speakers/835139ce-3bea-4fa7-8650-1e0d9243d272), [Mayunk Jain](https://ignite.microsoft.com/speakers/89d2afe2-9d5e-46e1-a8e5-009cc6ff06d2)*
-- [LAB502 - Migrate To Aks Automatic With Github Copilot For App Modernization](https://github.com/microsoft/ignite25-LAB502-migrate-to-aks-automatic-with-github-copilot-for-app-modernization) *Presenters: [Brian Redmond](https://ignite.microsoft.com/speakers/4adb8408-9e92-4e4d-a43b-09d23dca530b), [Michael YenChi Ho](https://ignite.microsoft.com/speakers/1ec395ac-c0ca-4959-a84d-052af1a29abd)*
-- [LAB503 - Avs From Migration And Optimization To Modernization](https://github.com/microsoft/ignite25-LAB503-avs-from-migration-and-optimization-to-modernization) *Presenters: [Carlos Villuendas](https://ignite.microsoft.com/speakers/bfc3f8d0-4cb9-49e9-99a9-dafd9e415bb6), [Husam Hilal](https://ignite.microsoft.com/speakers/c2f5762b-ed8a-4a58-9e31-c3fb4987664e), [Trevor Davis](https://ignite.microsoft.com/speakers/9771b860-57a1-4a20-9301-752c5e8a43df)*
-- [LAB504 - Connect Secure And Manage Hybrid Multicloud And Edge With Azure Arc](https://github.com/microsoft/ignite25-LAB504-connect-secure-and-manage-hybrid-multicloud-and-edge-with-azure-arc) *Presenters: [Alex Frankel](https://ignite.microsoft.com/speakers/10fc89f6-0d0e-4c08-95ea-7489b82c1c59), [Quynh Trinh](https://ignite.microsoft.com/speakers/14af8994-2af3-4962-938c-849b646397d2)*
-- [LAB505 - Fast Track Your Linux Migration Journey With Azure Migrate Infrastructure](https://github.com/microsoft/ignite25-LAB505-fast-track-your-linux-migration-journey-with-azure-migrate-infrastructure) *Presenters: [Andy Slivinschi](https://ignite.microsoft.com/speakers/640fb56b-eb35-467e-b933-d871e091decb), [Jack Tracey](https://ignite.microsoft.com/speakers/31e94e59-7d30-459e-8d69-0957025a6237)*
-- [LAB506 - Migrate And Modernize Windows And Sql Server Workloads To Azure](https://github.com/microsoft/ignite25-LAB506-migrate-and-modernize-windows-and-sql-server-workloads-to-azure) *Presenters: [Raunak Pandya](https://ignite.microsoft.com/speakers/e22c9c28-3847-44aa-bd20-997ddaec44ca), [Shikher Saluja](https://ignite.microsoft.com/speakers/8f324773-d4cf-4557-9798-b67a515d2b53)*
-- [LAB520 - Test Your Resiliency Posture Goals Drills Recovery Orchestration](https://github.com/microsoft/ignite25-LAB520-test-your-resiliency-posture-goals-drills-recovery-orchestration) *Presenters: [Akarsh Prabhu](https://ignite.microsoft.com/speakers/1daa5051-123a-4cec-9f61-339ca936ce0b), [Steven Bucher](https://ignite.microsoft.com/speakers/d658ecc1-8e5d-43ed-be85-0ecd54aafcf2)*
-- [LAB597 - Make More Informed Decisions With Geospatial Intelligence](https://github.com/microsoft/ignite25-LAB597-make-more-informed-decisions-with-geospatial-intelligence) *Presenters: [Martin Tuip](https://ignite.microsoft.com/speakers/d6ad756c-5a29-4a95-87e8-7ddd54116dd3), [Prasad Komma](https://ignite.microsoft.com/speakers/1cd9702c-461d-4f0c-8fd7-d5d1e42a0a36)*
-- [PREL20 - Modernize It Estate A Hands On Workshop For Portfolio Transformation](https://github.com/microsoft/ignite25-PREL20-modernize-it-estate-a-hands-on-workshop-for-portfolio-transformation) *Presenters: [Mayunk Jain](https://ignite.microsoft.com/speakers/89d2afe2-9d5e-46e1-a8e5-009cc6ff06d2), [Mo Nofal](https://ignite.microsoft.com/speakers/ef3524ae-2c0b-401c-a3e7-e8a408eb9923)*
+- [LAB500 - Unified Observability And Optimization With Azure Operations Platform](https://github.com/microsoft/ignite25-LAB500-unified-observability-and-optimization-with-azure-operations-platform)
+  - Presenters: [Matthew McCleary](https://ignite.microsoft.com/speakers/5cbb669b-5849-42f3-9627-8c0a6e11e391), [Ritesh Kini](https://ignite.microsoft.com/speakers/4d32fa95-d07a-401e-a6d6-b879dd469f32)
+- [LAB501 - Modernizing Aspnet Applications With Azure Migrate And Github Copilot](https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot)
+  - Presenters: [Gaurav Seth](https://ignite.microsoft.com/speakers/835139ce-3bea-4fa7-8650-1e0d9243d272), [Mayunk Jain](https://ignite.microsoft.com/speakers/89d2afe2-9d5e-46e1-a8e5-009cc6ff06d2)
+- [LAB502 - Migrate To Aks Automatic With Github Copilot For App Modernization](https://github.com/microsoft/ignite25-LAB502-migrate-to-aks-automatic-with-github-copilot-for-app-modernization)
+  - Presenters: [Brian Redmond](https://ignite.microsoft.com/speakers/4adb8408-9e92-4e4d-a43b-09d23dca530b), [Michael YenChi Ho](https://ignite.microsoft.com/speakers/1ec395ac-c0ca-4959-a84d-052af1a29abd)
+- [LAB503 - Avs From Migration And Optimization To Modernization](https://github.com/microsoft/ignite25-LAB503-avs-from-migration-and-optimization-to-modernization)
+  - Presenters: [Carlos Villuendas](https://ignite.microsoft.com/speakers/bfc3f8d0-4cb9-49e9-99a9-dafd9e415bb6), [Husam Hilal](https://ignite.microsoft.com/speakers/c2f5762b-ed8a-4a58-9e31-c3fb4987664e), [Trevor Davis](https://ignite.microsoft.com/speakers/9771b860-57a1-4a20-9301-752c5e8a43df)
+- [LAB504 - Connect Secure And Manage Hybrid Multicloud And Edge With Azure Arc](https://github.com/microsoft/ignite25-LAB504-connect-secure-and-manage-hybrid-multicloud-and-edge-with-azure-arc)
+  - Presenters: [Alex Frankel](https://ignite.microsoft.com/speakers/10fc89f6-0d0e-4c08-95ea-7489b82c1c59), [Quynh Trinh](https://ignite.microsoft.com/speakers/14af8994-2af3-4962-938c-849b646397d2)
+- [LAB505 - Fast Track Your Linux Migration Journey With Azure Migrate Infrastructure](https://github.com/microsoft/ignite25-LAB505-fast-track-your-linux-migration-journey-with-azure-migrate-infrastructure)
+  - Presenters: [Andy Slivinschi](https://ignite.microsoft.com/speakers/640fb56b-eb35-467e-b933-d871e091decb), [Jack Tracey](https://ignite.microsoft.com/speakers/31e94e59-7d30-459e-8d69-0957025a6237)
+- [LAB506 - Migrate And Modernize Windows And Sql Server Workloads To Azure](https://github.com/microsoft/ignite25-LAB506-migrate-and-modernize-windows-and-sql-server-workloads-to-azure)
+  - Presenters: [Raunak Pandya](https://ignite.microsoft.com/speakers/e22c9c28-3847-44aa-bd20-997ddaec44ca), [Shikher Saluja](https://ignite.microsoft.com/speakers/8f324773-d4cf-4557-9798-b67a515d2b53)
+- [LAB520 - Test Your Resiliency Posture Goals Drills Recovery Orchestration](https://github.com/microsoft/ignite25-LAB520-test-your-resiliency-posture-goals-drills-recovery-orchestration)
+  - Presenters: [Akarsh Prabhu](https://ignite.microsoft.com/speakers/1daa5051-123a-4cec-9f61-339ca936ce0b), [Steven Bucher](https://ignite.microsoft.com/speakers/d658ecc1-8e5d-43ed-be85-0ecd54aafcf2)
+- [LAB597 - Make More Informed Decisions With Geospatial Intelligence](https://github.com/microsoft/ignite25-LAB597-make-more-informed-decisions-with-geospatial-intelligence)
+  - Presenters: [Martin Tuip](https://ignite.microsoft.com/speakers/d6ad756c-5a29-4a95-87e8-7ddd54116dd3), [Prasad Komma](https://ignite.microsoft.com/speakers/1cd9702c-461d-4f0c-8fd7-d5d1e42a0a36)
+- [PREL20 - Modernize It Estate A Hands On Workshop For Portfolio Transformation](https://github.com/microsoft/ignite25-PREL20-modernize-it-estate-a-hands-on-workshop-for-portfolio-transformation)
+  - Presenters: [Mayunk Jain](https://ignite.microsoft.com/speakers/89d2afe2-9d5e-46e1-a8e5-009cc6ff06d2), [Mo Nofal](https://ignite.microsoft.com/speakers/ef3524ae-2c0b-401c-a3e7-e8a408eb9923)
 
-#### Learning Plans
+#### Skilling Plans
 
 - [App modernization for AI-readiness with Azure apps and data solutions](https://aka.ms/ignite25-plans-AAI_TDMApps_Plan)
 - [Unknown Plan](https://aka.ms/ignite25-plans-AzureCloudScaleDB)
@@ -103,15 +117,15 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 
 #### Labs Repositories
 
-- [LAB530 - Build New Ai Applications With Azure Sql Databases](https://github.com/microsoft/ignite25-LAB530-build-new-ai-applications-with-azure-sql-databases) *Presenters: [Aaron S Saidi](https://ignite.microsoft.com/speakers/b70c4b4e-c82b-4954-a5d8-ad028ccc2abb), [Brian Spendolini](https://ignite.microsoft.com/speakers/3aa4be3f-4aef-495e-a5f9-c19541314adc)*
-- [LAB531 - Accelerate Bi With Azure Databricks In The Era Of Ai](https://github.com/microsoft/ignite25-LAB531-accelerate-bi-with-azure-databricks-in-the-era-of-ai) *Presenters: [Daniel Epstein](https://ignite.microsoft.com/speakers/af9330e0-bb46-4d62-81a8-44356790ac22), [Santosh Perla](https://ignite.microsoft.com/speakers/c54c85e8-1272-4cdf-9996-479b4e7fb5d0)*
-- [LAB532 - Get Real With Real Time Intelligence To Transform Data Into Action](https://github.com/microsoft/ignite25-LAB532-get-real-with-real-time-intelligence-to-transform-data-into-action) *Presenters: [Edgar Alejandro Cotte Diaz](https://ignite.microsoft.com/speakers/40858ea6-baee-4b75-afb5-ba6744fb359f), [Someleze Diko](https://ignite.microsoft.com/speakers/c6e8280d-a6ca-4f92-a278-69216b0c687e)*
-- [LAB533 - Develop Scalable Data Solutions With Sql Database In Microsoft Fabric](https://github.com/microsoft/ignite25-LAB533-develop-scalable-data-solutions-with-sql-database-in-microsoft-fabric) *Presenters: [Idris Motiwala](https://ignite.microsoft.com/speakers/2f24d3e1-6808-4c4d-872b-787b325fd8f6), [Sukhwant Kaur](https://ignite.microsoft.com/speakers/4302b874-5dee-4cbb-bd4c-a2277191167e)*
-- [LAB534 - Build Real Time Analytics With Cosmos Db In Microsoft Fabric](https://github.com/microsoft/ignite25-LAB534-build-real-time-analytics-with-cosmos-db-in-microsoft-fabric) *Presenters: [Jasmine Greenaway](https://ignite.microsoft.com/speakers/ccf32732-1483-4448-ac5f-df5845ea12c3), [Mark Brown](https://ignite.microsoft.com/speakers/fc7cf0c9-4116-45da-9853-91eb9be45897)*
-- [LAB535 - Azure Databricks In Action Unified Ai And Analytics Across Microsoft](https://github.com/microsoft/ignite25-LAB535-azure-databricks-in-action-unified-ai-and-analytics-across-microsoft) *Presenters: [Jason Pereira](https://ignite.microsoft.com/speakers/fe4f859c-2a05-4a5f-9a9d-f23b99587f29), [Sanjay Soni](https://ignite.microsoft.com/speakers/a8748a17-8558-4612-a46d-212434be981a)*
-- [PREL14 - Unify Data Act On Insights And Build Ai Solutions With Microsoft Fabric](https://github.com/microsoft/ignite25-PREL14-unify-data-act-on-insights-and-build-ai-solutions-with-microsoft-fabric) *Presenters: [Brad Schacht](https://ignite.microsoft.com/speakers/43344d24-8314-4827-b296-23b378cfbd9b), [John Hoang](https://ignite.microsoft.com/speakers/b24c57b1-cab7-4cad-82f8-868205a95bc1)*
+- [LAB530 - Build New Ai Applications With Azure Sql Databases](https://github.com/microsoft/ignite25-LAB530-build-new-ai-applications-with-azure-sql-databases) (Presenters: [Aaron S Saidi](https://ignite.microsoft.com/speakers/b70c4b4e-c82b-4954-a5d8-ad028ccc2abb), [Brian Spendolini](https://ignite.microsoft.com/speakers/3aa4be3f-4aef-495e-a5f9-c19541314adc))
+- [LAB531 - Accelerate Bi With Azure Databricks In The Era Of Ai](https://github.com/microsoft/ignite25-LAB531-accelerate-bi-with-azure-databricks-in-the-era-of-ai) (Presenters: [Daniel Epstein](https://ignite.microsoft.com/speakers/af9330e0-bb46-4d62-81a8-44356790ac22), [Santosh Perla](https://ignite.microsoft.com/speakers/c54c85e8-1272-4cdf-9996-479b4e7fb5d0))
+- [LAB532 - Get Real With Real Time Intelligence To Transform Data Into Action](https://github.com/microsoft/ignite25-LAB532-get-real-with-real-time-intelligence-to-transform-data-into-action) (Presenters: [Edgar Alejandro Cotte Diaz](https://ignite.microsoft.com/speakers/40858ea6-baee-4b75-afb5-ba6744fb359f), [Someleze Diko](https://ignite.microsoft.com/speakers/c6e8280d-a6ca-4f92-a278-69216b0c687e))
+- [LAB533 - Develop Scalable Data Solutions With Sql Database In Microsoft Fabric](https://github.com/microsoft/ignite25-LAB533-develop-scalable-data-solutions-with-sql-database-in-microsoft-fabric) (Presenters: [Idris Motiwala](https://ignite.microsoft.com/speakers/2f24d3e1-6808-4c4d-872b-787b325fd8f6), [Sukhwant Kaur](https://ignite.microsoft.com/speakers/4302b874-5dee-4cbb-bd4c-a2277191167e))
+- [LAB534 - Build Real Time Analytics With Cosmos Db In Microsoft Fabric](https://github.com/microsoft/ignite25-LAB534-build-real-time-analytics-with-cosmos-db-in-microsoft-fabric) (Presenters: [Jasmine Greenaway](https://ignite.microsoft.com/speakers/ccf32732-1483-4448-ac5f-df5845ea12c3), [Mark Brown](https://ignite.microsoft.com/speakers/fc7cf0c9-4116-45da-9853-91eb9be45897))
+- [LAB535 - Azure Databricks In Action Unified Ai And Analytics Across Microsoft](https://github.com/microsoft/ignite25-LAB535-azure-databricks-in-action-unified-ai-and-analytics-across-microsoft) (Presenters: [Jason Pereira](https://ignite.microsoft.com/speakers/fe4f859c-2a05-4a5f-9a9d-f23b99587f29), [Sanjay Soni](https://ignite.microsoft.com/speakers/a8748a17-8558-4612-a46d-212434be981a))
+- [PREL14 - Unify Data Act On Insights And Build Ai Solutions With Microsoft Fabric](https://github.com/microsoft/ignite25-PREL14-unify-data-act-on-insights-and-build-ai-solutions-with-microsoft-fabric) (Presenters: [Brad Schacht](https://ignite.microsoft.com/speakers/43344d24-8314-4827-b296-23b378cfbd9b), [John Hoang](https://ignite.microsoft.com/speakers/b24c57b1-cab7-4cad-82f8-868205a95bc1))
 
-#### Learning Plans
+#### Skilling Plans
 
 - [Unknown Plan](https://aka.ms/ignite25-plans-AzureDatabricks_TYD)
 - [Transform data for AI solutions with Azure Databricks](https://aka.ms/ignite25-plans-AzureDatabricks_UYDforAI)
@@ -136,7 +150,7 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 - [LAB546 - Securing The Stack Zero Trust For Data Infra Network And Soc](https://github.com/microsoft/ignite25-LAB546-securing-the-stack-zero-trust-for-data-infra-network-and-soc) *Presenters: [Joey Cruz](https://ignite.microsoft.com/speakers/2b5d6e22-4f09-408a-8404-1e8ed96a764a), [Lexi Falcone Lederman](https://ignite.microsoft.com/speakers/b2359f93-6fdf-4703-b52c-7c75e61a5331)*
 - [LAB549 - Strengthen Your Identity Security Posture With Conditional Access](https://github.com/microsoft/ignite25-LAB549-strengthen-your-identity-security-posture-with-conditional-access) *Presenters: [Jordan Dahl](https://ignite.microsoft.com/speakers/49cc381a-3205-4f2d-a3b8-5de3e5df8c19), [Mitch Muro](https://ignite.microsoft.com/speakers/6279773f-3cca-481f-a723-0cd58afc3953)*
 
-#### Learning Plans
+#### Skilling Plans
 
 - [Becoming Frontier: Empowering AI adoption through skills development](https://aka.ms/ignite25-plans-BuildingResilientSecurity)
 - [Control access, protect identities with Microsoft Entra](https://aka.ms/ignite25-plans-ControlProtectMicrosoftEntra)
@@ -156,7 +170,7 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 - [LAB550 - Mitigating Cloud Threats With Microsoft Defender For Cloud](https://github.com/microsoft/ignite25-LAB550-mitigating-cloud-threats-with-microsoft-defender-for-cloud) *Presenters: [Alex Steele](https://ignite.microsoft.com/speakers/909f946b-936f-40df-818b-b2044fbd92a5), [Drew Nicholas](https://ignite.microsoft.com/speakers/f75643dc-5b75-480d-92f2-a12d5555bd39)*
 - [LAB551 - Maximizing Cloud Security Cspm In Microsoft Defender Cloud](https://github.com/microsoft/ignite25-LAB551-maximizing-cloud-security-cspm-in-microsoft-defender-cloud) *Presenters: [Alex Steele](https://ignite.microsoft.com/speakers/909f946b-936f-40df-818b-b2044fbd92a5), [Giulio Astori](https://ignite.microsoft.com/speakers/38a7ba9d-5dd0-4b55-ad48-463082cd0f4f)*
 
-#### Learning Plans
+#### Skilling Plans
 
 - [Control access, protect identities with Microsoft Entra](https://aka.ms/ignite25-plans-ControlProtectMicrosoftEntra)
 - [Strengthen cloud security posture and DevOps protection](https://aka.ms/ignite25-plans-Plan_Security16)
@@ -174,7 +188,7 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 - [LAB548 - Implement And Manage Data Loss Prevention Policies](https://github.com/microsoft/ignite25-LAB548-implement-and-manage-data-loss-prevention-policies) *Presenters: [Aakash Malhotra](https://ignite.microsoft.com/speakers/7c1a5623-b8e1-4ad8-b6cc-71600a48adf8), [Maxime Bombardier](https://ignite.microsoft.com/speakers/5a3a8f54-f8b1-4f5f-8ba1-3ce87c9c7b21)*
 - [PREL18 - Secure Your M365 Tenant From Defaults To Ai Ready](https://github.com/microsoft/ignite25-PREL18-secure-your-m365-tenant-from-defaults-to-ai-ready) *Presenters: [Bryan Wofford](https://ignite.microsoft.com/speakers/8e6ce7f9-1940-4a89-808f-8d3b066edb1e), [Nikita Bandyopadhyay](https://ignite.microsoft.com/speakers/9624032f-d51f-482e-9939-aa0595317fcf)*
 
-#### Learning Plans
+#### Skilling Plans
 
 - [Becoming Frontier: Empowering AI adoption through skills development](https://aka.ms/ignite25-plans-BuildingResilientSecurity)
 - [Manage insider risk and help prevent data loss](https://aka.ms/ignite25-plans-ManageInsiderRisk)
@@ -188,7 +202,7 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 
 ### AGENTIC BUSINESS APPLICATIONS
 
-#### Learning Plans
+#### Skilling Plans
 
 - [Create agentic business applications for business leaders](https://aka.ms/ignite25-plans-agenticbusinessapps)
 - [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate)
@@ -206,7 +220,7 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 - [LAB590 - Building Collaborative Agents In Microsoft Teams With Teams Ai Library](https://github.com/microsoft/ignite25-LAB590-building-collaborative-agents-in-microsoft-teams-with-teams-ai-library) *Presenters: [Prem Prem Mathiyalagan](https://ignite.microsoft.com/speakers/f4759ce7-58e4-4216-b9c4-38db1b68834f), [Ricky Castaneda](https://ignite.microsoft.com/speakers/41bee334-5e72-4515-affa-d1eb04bc50d3)*
 - [PREL17 - Controlling Costs  Complexity Managing Copilot And Agent Lifecycle](https://github.com/microsoft/ignite25-PREL17-controlling-costs--complexity-managing-copilot-and-agent-lifecycle) *Presenters: Ben Summers, Jeremy Chapman*
 
-#### Learning Plans
+#### Skilling Plans
 
 - [Enhance your AI business solutions with Copilot and agents at work](https://aka.ms/ignite25-plans-copilotagents)
 - [Unknown Plan](https://aka.ms/ignite25plan_copilotagents)
@@ -219,7 +233,7 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 - [LAB572 - Automate Your Enterprise Workflows With Mcp Tools](https://github.com/microsoft/ignite25-LAB572-automate-your-enterprise-workflows-with-mcp-tools) *Presenters: [Nathan Helgren](https://ignite.microsoft.com/speakers/ff7e84b0-295c-45dd-b6d8-d85b29025396), [Rakesh Krishnan](https://ignite.microsoft.com/speakers/dcda0520-02cb-4273-8dad-9a3eac717025)*
 - [LAB595 - Extending Dragon Copilot With Partner Built Ai Solutions](https://github.com/microsoft/ignite25-LAB595-extending-dragon-copilot-with-partner-built-ai-solutions) *Presenters: [Brandon Pollett](https://ignite.microsoft.com/speakers/e47f4516-ba2e-4c9c-abab-0ca8c295705c), [Jegan Lingam](https://ignite.microsoft.com/speakers/f426b956-63ca-472d-bbac-150f1ad04966)*
 
-#### Learning Plans
+#### Skilling Plans
 
 - [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions)
 - [Enhance your AI business solutions with Copilot and agents at work](https://aka.ms/ignite25-plans-copilotagents)
@@ -239,38 +253,13 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 - [LAB585 - Supercharge Your Wpf Apps With Local Ai](https://github.com/microsoft/ignite25-LAB585-supercharge-your-wpf-apps-with-local-ai) *Presenters: [Bruno Sonnino](https://ignite.microsoft.com/speakers/02a19d56-d91f-4b9d-a0b5-00cc4a5a6ae8), [Greg Woo](https://ignite.microsoft.com/speakers/2778fa3c-bb45-41cc-ad6f-b4ee2fc057dc)*
 - [LAB587 - Windows 365 Ai Lab Semantic Federated Search And Click2Do In Action](https://github.com/microsoft/ignite25-LAB587-windows-365-ai-lab-semantic-federated-search-and-click2do-in-action) *Presenters: [Donna Ryan](https://ignite.microsoft.com/speakers/15812c60-070d-4262-aa70-f5276379d6c9), [Steve Thomas](https://ignite.microsoft.com/speakers/1503eb54-71b6-4fb0-a4cf-0f97e5de57d7)*
 
-#### Learning Plans
+#### Skilling Plans
 
 - [Agentic Windows](https://aka.ms/ignite25-plans-AgenticWindows)
 - [Developer experiences and fundamentals](https://aka.ms/ignite25-plans-DevExperiences)
 - [Windows AI Foundry](https://aka.ms/ignite25-plans-WinAIFoundry)
 - [Enable secure and scalable endpoint experiences with Cloud and AI](https://aka.ms/ignite25-plans-scalecloud)
 - [Unknown Plan](https://aka.ms/ignite25plan_scalecloud)
-
-## ADDITIONAL TOPICS
-
-### MICROSOFT AI CLOUD PARTNER PROGRAM
-
-#### Learning Plans
-
-- [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan)
-- [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions)
-- [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate)
-- [Unknown Plan](https://aka.ms/ignite25plan_agenticsolutions)
-- [Unknown Plan](https://aka.ms/ignite25plan_copilotagents)
-- [Unknown Plan](https://aka.ms/ignite25plan_lowcode)
-- [Unknown Plan](https://aka.ms/ignite25plan_secops)
-
-### OTHER
-
-#### Learning Plans
-
-- [Unknown Plan](https://aka.ms/ignite25-plans-BecomingFrontier)
-- [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan)
-- [Establish and enhance proactive security operations](https://aka.ms/ignite25-plans-ProactiveSecurityOps)
-- [Enhance your AI business solutions with Copilot and agents at work](https://aka.ms/ignite25-plans-copilotagents)
-- [Unknown Plan](https://aka.ms/ignite25plan_copilotagents)
-
 
 ### 🌟 Microsoft Learn MCP Server
 
