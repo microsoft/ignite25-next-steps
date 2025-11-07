@@ -6,6 +6,10 @@
 
 After attending Microsoft Ignite 2025, your next steps to continue your learning journey include the resources below. You'll find repositories with shared code and guidance for each of the Labs offered at Ignite, as well as Microsoft Learn content featured in Collections and Plans for continued learning in your own environment. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources to further your knowledge and apply what you've learned in practical scenarios.
 
+## 🔥 Microsoft Ignite 2025 Next Steps
+
+After attending Microsoft Ignite 2025, your next steps to continue your learning journey include the resources below. You'll find repositories with shared code and guidance for each of the Labs offered at Ignite, as well as Microsoft Learn content featured in Collections and Plans for continued learning in your own environment. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources to further your knowledge and apply what you've learned in practical scenarios.
+
 ## Topics by Solution Area
 
 | CLOUD AND AI PLATFORMS | SECURITY | AI BUSINESS SOLUTIONS |
@@ -46,14 +50,14 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 | [PREL13 - Observe Manage And Scale Agentic Ai Apps With Azure Ai Foundry](https://github.com/microsoft/ignite25-PREL13-observe-manage-and-scale-agentic-ai-apps-with-azure-ai-foundry) | [Bethany Jepchumba](https://ignite.microsoft.com/speakers/d70cd9fb-1aad-4593-b112-4ddec6584a4d), [Nitya Narasimhan](https://ignite.microsoft.com/speakers/5cee57d1-8f41-453c-b44e-dc685d29a6a4) |
 | [PREL15 - Ai Ready Apps Containerize And Modernize With Azure](https://github.com/microsoft/ignite25-PREL15-ai-ready-apps-containerize-and-modernize-with-azure) | [Brian Benz](https://ignite.microsoft.com/speakers/f0cb92fb-8c80-42dc-8fa8-15ee0ae62807), [Simon Jakesch](https://ignite.microsoft.com/speakers/e5a343f6-3f87-4feb-8ee9-0e9be3483e98) |
 | [PREL16 - Semantic Memory For Multi Agent Apps In Ai Foundry With Cosmos Db](https://github.com/microsoft/ignite25-PREL16-semantic-memory-for-multi-agent-apps-in-ai-foundry-with-cosmos-db) | [Aayush Kataria](https://ignite.microsoft.com/speakers/56b9a96d-b51f-4e42-b475-3109da0509ac), [Theo van Kraay](https://ignite.microsoft.com/speakers/327a8eff-39b4-408c-8ed0-cc41fa707dee) |
-| [PREL19 - An It Pros Guide To Deploying And Managing Ai Applications](https://github.com/microsoft/ignite25-PREL19-an-it-pros-guide-to-deploying-and-managing-ai-applications) | [Bilal Amjad](https://ignite.microsoft.com/speakers/eb665aff-e65e-c8bc-9fc0-e866198e0a3e), [Pierre Roman](https://ignite.microsoft.com/speakers/961e8b2e-5e11-4c5e-a06d-41779499a540), Vinicius Apolinario @vrapolinario |
+| [PREL19 - An It Pros Guide To Deploying And Managing Ai Applications](https://github.com/microsoft/ignite25-PREL19-an-it-pros-guide-to-deploying-and-managing-ai-applications) | [Bilal Amjad](https://ignite.microsoft.com/speakers/eb665aff-e65e-c8bc-9fc0-e866198e0a3e), [Pierre Roman](https://ignite.microsoft.com/speakers/961e8b2e-5e11-4c5e-a06d-41779499a540), [Vinicius Apolinario](https://ignite.microsoft.com/speakers/f8731a5b-b935-b6b5-0f91-0581a9594f2b) |
 
 #### Skilling Plans
 
 - [Build and deploy scalable AI apps on Azure Cosmos DB and Azure Kubernetes Service](https://aka.ms/ignite25-plans-AIAppsCosmosDB)
 - [Build and deploy scalable AI Apps on Azure Database for PostgreSQL](https://aka.ms/ignite25-plans-AIAppsPGSQL)
-- [Unknown Plan](https://aka.ms/ignite25-plans-AIAppsSQL)
 - [Agentic DevOps powered by GitHub Copilot](https://aka.ms/ignite25-plans-AgenticDevOpsGitHubCopilot)
+- [Build Data-Driven AI Solutions with Azure SQL](https://aka.ms/ignite25-plans-AzureSQLAIDevelopment)
 - [Find the best model for your generative AI solution by using Azure AI Foundry](https://aka.ms/ignite25-plans-BestModelGenAISolution)
 - [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-CreateAgenticAISolutions)
 - [Build and deploy scalable AI apps on Azure Databases](https://aka.ms/ignite25-plans-DBPlans)
@@ -63,10 +67,10 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 - [Create speech-enabled apps with Azure AI services](https://aka.ms/ignite25-plans-SpeechEnabledApps)
 - [Unlock business potential with AI apps and agents](https://aka.ms/ignite25-plans-StartTransformingBizAI)
 - [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions)
+- [Innovate with low-code AI and agents](https://aka.ms/ignite25-plans-lowcode)
 - [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate)
 - [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrateWSPlan)
 - [Unknown Plan](https://aka.ms/ignite25plan_agenticsolutions)
-- [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25plan_migrate)
 
 ### MIGRATE AND MODERNIZE YOUR ESTATE
 
@@ -80,16 +84,16 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 | [LAB503 - Avs From Migration And Optimization To Modernization](https://github.com/microsoft/ignite25-LAB503-avs-from-migration-and-optimization-to-modernization) | [Carlos Villuendas](https://ignite.microsoft.com/speakers/bfc3f8d0-4cb9-49e9-99a9-dafd9e415bb6), [Husam Hilal](https://ignite.microsoft.com/speakers/c2f5762b-ed8a-4a58-9e31-c3fb4987664e), [Trevor Davis](https://ignite.microsoft.com/speakers/9771b860-57a1-4a20-9301-752c5e8a43df) |
 | [LAB504 - Connect Secure And Manage Hybrid Multicloud And Edge With Azure Arc](https://github.com/microsoft/ignite25-LAB504-connect-secure-and-manage-hybrid-multicloud-and-edge-with-azure-arc) | [Alex Frankel](https://ignite.microsoft.com/speakers/10fc89f6-0d0e-4c08-95ea-7489b82c1c59), [Quynh Trinh](https://ignite.microsoft.com/speakers/14af8994-2af3-4962-938c-849b646397d2) |
 | [LAB505 - Fast Track Your Linux Migration Journey With Azure Migrate Infrastructure](https://github.com/microsoft/ignite25-LAB505-fast-track-your-linux-migration-journey-with-azure-migrate-infrastructure) | [Andy Slivinschi](https://ignite.microsoft.com/speakers/640fb56b-eb35-467e-b933-d871e091decb), [Jack Tracey](https://ignite.microsoft.com/speakers/31e94e59-7d30-459e-8d69-0957025a6237) |
-| [LAB506 - Migrate And Modernize Windows And Sql Server Workloads To Azure](https://github.com/microsoft/ignite25-LAB506-migrate-and-modernize-windows-and-sql-server-workloads-to-azure) | [Raunak Pandya](https://ignite.microsoft.com/speakers/e22c9c28-3847-44aa-bd20-997ddaec44ca), [Shikher Saluja](https://ignite.microsoft.com/speakers/8f324773-d4cf-4557-9798-b67a515d2b53) |
+| [LAB506 - Migrate And Modernize Windows And Sql Server Workloads To Azure](https://github.com/microsoft/ignite25-LAB506-migrate-and-modernize-windows-and-sql-server-workloads-to-azure) | [Raunak Pandya](https://ignite.microsoft.com/speakers/e22c9c28-3847-44aa-bd20-997ddaec44ca), [Vikram Bansal](https://ignite.microsoft.com/speakers/358e7665-a2a8-4078-924c-2be27bd7f086) |
 | [LAB520 - Test Your Resiliency Posture Goals Drills Recovery Orchestration](https://github.com/microsoft/ignite25-LAB520-test-your-resiliency-posture-goals-drills-recovery-orchestration) | [Akarsh Prabhu](https://ignite.microsoft.com/speakers/1daa5051-123a-4cec-9f61-339ca936ce0b), [Steven Bucher](https://ignite.microsoft.com/speakers/d658ecc1-8e5d-43ed-be85-0ecd54aafcf2) |
 | [LAB597 - Make More Informed Decisions With Geospatial Intelligence](https://github.com/microsoft/ignite25-LAB597-make-more-informed-decisions-with-geospatial-intelligence) | [Martin Tuip](https://ignite.microsoft.com/speakers/d6ad756c-5a29-4a95-87e8-7ddd54116dd3), [Prasad Komma](https://ignite.microsoft.com/speakers/1cd9702c-461d-4f0c-8fd7-d5d1e42a0a36) |
 | [PREL20 - Modernize It Estate A Hands On Workshop For Portfolio Transformation](https://github.com/microsoft/ignite25-PREL20-modernize-it-estate-a-hands-on-workshop-for-portfolio-transformation) | [Mayunk Jain](https://ignite.microsoft.com/speakers/89d2afe2-9d5e-46e1-a8e5-009cc6ff06d2), [Mo Nofal](https://ignite.microsoft.com/speakers/ef3524ae-2c0b-401c-a3e7-e8a408eb9923) |
 
 #### Skilling Plans
 
+- [Unknown Plan](https://aka.ms/AzureSQLAIDevelopment)
 - [App modernization for AI-readiness with Azure apps and data solutions](https://aka.ms/ignite25-plans-AAI_TDMApps_Plan)
-- [Unknown Plan](https://aka.ms/ignite25-plans-AzureCloudScaleDB)
-- [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-CreateAgenticAISolutions)
+- [Build Data-Driven AI Solutions with Azure SQL](https://aka.ms/ignite25-plans-AzureSQLAIDevelopment)
 - [From Kubernetes to Enterprise-Grade AKS: A Practitioner's Guidebook](https://aka.ms/ignite25-plans-KubeCon_Learning)
 - [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan)
 - [Migrate application workloads and data to Azure](https://aka.ms/ignite25-plans-MigrateAppWorkloadsDatatoAzure)
@@ -121,14 +125,15 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 
 #### Skilling Plans
 
-- [Unknown Plan](https://aka.ms/ignite25-plans-AzureDatabricks_TYD)
+- [Unknown Plan](https://aka.ms/AzureSQLAIDevelopment)
+- [Run large data engineering workloads with Azure Databricks](https://aka.ms/ignite25-plans-AzureDatabricks_TYD)
 - [Transform data for AI solutions with Azure Databricks](https://aka.ms/ignite25-plans-AzureDatabricks_UYDforAI)
+- [Build Data-Driven AI Solutions with Azure SQL](https://aka.ms/ignite25-plans-AzureSQLAIDevelopment)
 - [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan)
 - [Elevate your Microsoft Fabric data engineering skills: Prepare for DP-700 Exam](https://aka.ms/ignite25-plans-MicrosoftFabricDataEngineeringPlan)
 - [Build Real-Time Data Solutions with Real-Time Intelligence in Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricRTIPlan)
 - [Establish and enhance proactive security operations](https://aka.ms/ignite25-plans-ProactiveSecurityOps)
 - [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions)
-- [Unknown Plan](https://aka.ms/ignite25plan_agenticsolutions)
 - [Unknown Plan](https://aka.ms/ignite25plan_fabric)
 
 ## SECURITY
@@ -155,8 +160,8 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 - [Predict and defend against threats with Microsoft Defender powered by AI](https://aka.ms/ignite25-plans-PredictAndDefendMicrosoftDefender)
 - [Establish and enhance proactive security operations](https://aka.ms/ignite25-plans-ProactiveSecurityOps)
 - [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate)
+- [Secure your organization's data and information](https://aka.ms/ignite25-plans-securedata)
 - [Unknown Plan](https://aka.ms/ignite25plan_secops)
-- [Unknown Plan](https://aka.ms/ignite25plan_securedata)
 
 ### PROTECT CLOUD AI PLATFORM AND APPS
 
@@ -174,8 +179,8 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 - [Strengthen cloud security posture and DevOps protection](https://aka.ms/ignite25-plans-Plan_Security16)
 - [Securing AI: Protect, Govern, and Defend](https://aka.ms/ignite25-plans-SecuringAIProtectGovernDefend)
 - [Protect cloud infrastructure and apps with Azure Security](https://aka.ms/ignite25-plans-protectcloud)
+- [Secure your organization's data and information](https://aka.ms/ignite25-plans-securedata)
 - [Unknown Plan](https://aka.ms/ignite25plan_protectcloud)
-- [Unknown Plan](https://aka.ms/ignite25plan_securedata)
 
 ### SECURE YOUR DATA
 
@@ -206,7 +211,6 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 
 - [Create agentic business applications for business leaders](https://aka.ms/ignite25-plans-agenticbusinessapps)
 - [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate)
-- [Unknown Plan](https://aka.ms/ignite25plan_agenticbusinessapps)
 
 ### COPILOT AND AGENTS AT WORK
 
@@ -242,8 +246,6 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 - [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions)
 - [Enhance your AI business solutions with Copilot and agents at work](https://aka.ms/ignite25-plans-copilotagents)
 - [Innovate with low-code AI and agents](https://aka.ms/ignite25-plans-lowcode)
-- [Unknown Plan](https://aka.ms/ignite25plan_lowcode)
-- [Unknown Plan](https://microsoft.com)
 
 ### SCALE WITH CLOUD AND AI ENDPOINTS
 
@@ -263,6 +265,7 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 
 - [Agentic Windows](https://aka.ms/ignite25-plans-AgenticWindows)
 - [Developer experiences and fundamentals](https://aka.ms/ignite25-plans-DevExperiences)
+- [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan)
 - [Windows AI Foundry](https://aka.ms/ignite25-plans-WinAIFoundry)
 - [Enable secure and scalable endpoint experiences with Cloud and AI](https://aka.ms/ignite25-plans-scalecloud)
 - [Unknown Plan](https://aka.ms/ignite25plan_scalecloud)
