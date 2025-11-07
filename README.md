@@ -24,161 +24,252 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 
 ### INNOVATE WITH AZURE AI APPS AND AGENTS
 
-| Plan name | Session alignment | Lab alignment |
-|-----------|-------------------|---------------|
-| [Build and deploy scalable AI apps on Azure Cosmos DB and Azure Kubernetes Service](https://aka.ms/ignite25-plans-AIAppsCosmosDB) | BRK117, BRK120, BRK121 | LAB517, PREL15, PREL16 |
-| [Build and deploy scalable AI Apps on Azure Database for PostgreSQL](https://aka.ms/ignite25-plans-AIAppsPGSQL) | BRK127 | LAB515 |
-| [Unknown Plan](https://aka.ms/ignite25-plans-AIAppsSQL) | BRK126 |  |
-| [Agentic DevOps powered by GitHub Copilot](https://aka.ms/ignite25-plans-AgenticDevOpsGitHubCopilot) | BRK105, BRK106, BRK107, BRK108, BRK109, BRK112, BRK115, BRK118, BRK218 |  |
-| [Find the best model for your generative AI solution by using Azure AI Foundry](https://aka.ms/ignite25-plans-BestModelGenAISolution) | BRK191, BRK195, BRK199, BRK210 | LAB596 |
-| [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-CreateAgenticAISolutions) | BRK114, BRK116, BRK188, BRK189, BRK192, BRK193, BRK194, BRK196, BRK197, BRK200, BRK201, BRK203, BRK204, BRK212, BRK213, BRK214, BRK219, BRK373, ODSP1401 | LAB511, LAB512, LAB513, LAB514, LAB518, LAB571, LAB598 |
-| [Build and deploy scalable AI apps on Azure Databases](https://aka.ms/ignite25-plans-DBPlans) | BRK113, BRK119 | LAB519, PREL19 |
-| [Expand the capabilities for Java apps on Azure](https://aka.ms/ignite25-plans-ExpandCapabilities) | PREB10 |  |
-| [Build and govern responsible AI apps and agents with Azure AI Foundry](https://aka.ms/ignite25-plans-ManageGenAILifecycles) | BRK186, BRK190, BRK202, BRK205 | LAB516, PREL13 |
-| [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan) | THR741 |  |
-| [Create speech-enabled apps with Azure AI services](https://aka.ms/ignite25-plans-SpeechEnabledApps) | BRK198 |  |
-| [Unlock business potential with AI apps and agents](https://aka.ms/ignite25-plans-StartTransformingBizAI) | BRK187, BRK215, BRK216, BRK217, BRK374, BRK382, BRK386, BRKSP480 |  |
-| [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions) | ODSP1463, ODSP1469, ODSP1490, ODSP1494, ODSP1501, THR702, THR703, THR705, THR716, THR720, THR721, THR722, THR723, THR818, THR819, THR831, THR835, THR836, THRSP854, THRSP864, THRSP881, THRSP889, THRSP905, THRSP925 |  |
-| [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate) | ODSP1411, ODSP1416, THR837, THRSP900 |  |
-| [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrateWSPlan) | BRK1745 |  |
-| [Unknown Plan](https://aka.ms/ignite25plan_agenticsolutions) | BRK1706, ODLAB512, ODLAB513, ODLAB514, ODLAB515, ODLAB516, ODLAB517, ODLAB518, ODLAB519, ODLAB571 | LAB510 |
-| [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25plan_migrate) | BRK110, BRK111, BRK122 |  |
+#### Labs Repositories
+
+- [LAB510 - The Power Of Github Copilot In Vs Code](https://github.com/microsoft/ignite25-LAB510-the-power-of-github-copilot-in-vs-code)
+- [LAB511 - Build Agentic Knowledge Bases Next Level Rag With Azure Ai Search](https://github.com/microsoft/ignite25-LAB511-build-agentic-knowledge-bases-next-level-rag-with-azure-ai-search)
+- [LAB512 - Prototyping Multimodal Agents With Azure Ai Foundry And The Ai Toolkit](https://github.com/microsoft/ignite25-LAB512-prototyping-multimodal-agents-with-azure-ai-foundry-and-the-ai-toolkit)
+- [LAB513 - Build A2A And Mcp Systems Using Swe Agents And Agent Framework](https://github.com/microsoft/ignite25-LAB513-build-a2a-and-mcp-systems-using-swe-agents-and-agent-framework)
+- [LAB514 - Build And Deploy Ai Agents With Mcp And Azure Functions](https://github.com/microsoft/ignite25-LAB514-build-and-deploy-ai-agents-with-mcp-and-azure-functions)
+- [LAB515 - Build Advanced Ai Agents With Postgresql](https://github.com/microsoft/ignite25-LAB515-build-advanced-ai-agents-with-postgresql)
+- [LAB516 - Safeguard Your Agents With Ai Red Teaming Agent In Azure Ai Foundry](https://github.com/microsoft/ignite25-LAB516-safeguard-your-agents-with-ai-red-teaming-agent-in-azure-ai-foundry)
+- [LAB517 - Next Gen Aks Operations With Models And Agents And Mcps Oh My](https://github.com/microsoft/ignite25-LAB517-next-gen-aks-operations-with-models-and-agents-and-mcps-oh-my)
+- [LAB518 - Multi Agent Apps With Microsoft Agent Framework Or Langgraph](https://github.com/microsoft/ignite25-LAB518-multi-agent-apps-with-microsoft-agent-framework-or-langgraph)
+- [LAB519 - Governing Ai Apps Agents With Ai Gateway In Azure Api Management](https://github.com/microsoft/ignite25-LAB519-governing-ai-apps-agents-with-ai-gateway-in-azure-api-management)
+- [LAB571 - Build A Pizza Ordering Agent With Azure Ai Foundry And Mcp](https://github.com/microsoft/ignite25-LAB571-build-a-pizza-ordering-agent-with-azure-ai-foundry-and-mcp)
+- [LAB596 - Working With Healthcare Ai Models From Set Up To Use Case](https://github.com/microsoft/ignite25-LAB596-working-with-healthcare-ai-models-from-set-up-to-use-case)
+- [LAB598 - Agentic Ai In Healthcare Multi Agent Orchestration In Action](https://github.com/microsoft/ignite25-LAB598-agentic-ai-in-healthcare-multi-agent-orchestration-in-action)
+- [PREL13 - Observe Manage And Scale Agentic Ai Apps With Azure Ai Foundry](https://github.com/microsoft/ignite25-PREL13-observe-manage-and-scale-agentic-ai-apps-with-azure-ai-foundry)
+- [PREL15 - Ai Ready Apps Containerize And Modernize With Azure](https://github.com/microsoft/ignite25-PREL15-ai-ready-apps-containerize-and-modernize-with-azure)
+- [PREL16 - Semantic Memory For Multi Agent Apps In Ai Foundry With Cosmos Db](https://github.com/microsoft/ignite25-PREL16-semantic-memory-for-multi-agent-apps-in-ai-foundry-with-cosmos-db)
+- [PREL19 - An It Pros Guide To Deploying And Managing Ai Applications](https://github.com/microsoft/ignite25-PREL19-an-it-pros-guide-to-deploying-and-managing-ai-applications)
+
+#### Learning Plans
+
+- [Build and deploy scalable AI apps on Azure Cosmos DB and Azure Kubernetes Service](https://aka.ms/ignite25-plans-AIAppsCosmosDB)
+- [Build and deploy scalable AI Apps on Azure Database for PostgreSQL](https://aka.ms/ignite25-plans-AIAppsPGSQL)
+- [Unknown Plan](https://aka.ms/ignite25-plans-AIAppsSQL)
+- [Agentic DevOps powered by GitHub Copilot](https://aka.ms/ignite25-plans-AgenticDevOpsGitHubCopilot)
+- [Find the best model for your generative AI solution by using Azure AI Foundry](https://aka.ms/ignite25-plans-BestModelGenAISolution)
+- [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-CreateAgenticAISolutions)
+- [Build and deploy scalable AI apps on Azure Databases](https://aka.ms/ignite25-plans-DBPlans)
+- [Expand the capabilities for Java apps on Azure](https://aka.ms/ignite25-plans-ExpandCapabilities)
+- [Build and govern responsible AI apps and agents with Azure AI Foundry](https://aka.ms/ignite25-plans-ManageGenAILifecycles)
+- [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan)
+- [Create speech-enabled apps with Azure AI services](https://aka.ms/ignite25-plans-SpeechEnabledApps)
+- [Unlock business potential with AI apps and agents](https://aka.ms/ignite25-plans-StartTransformingBizAI)
+- [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions)
+- [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate)
+- [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrateWSPlan)
+- [Unknown Plan](https://aka.ms/ignite25plan_agenticsolutions)
+- [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25plan_migrate)
 
 ### MIGRATE AND MODERNIZE YOUR ESTATE
 
-| Plan name | Session alignment | Lab alignment |
-|-----------|-------------------|---------------|
-| [App modernization for AI-readiness with Azure apps and data solutions](https://aka.ms/ignite25-plans-AAI_TDMApps_Plan) | BRK100, BRK102, BRK103, BRK146, BRK149, BRK150, BRK166, BRK169, BRK182, BRK376 |  |
-| [Unknown Plan](https://aka.ms/ignite25-plans-AzureCloudScaleDB) |  | LAB506 |
-| [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-CreateAgenticAISolutions) | PREB09 |  |
-| [From Kubernetes to Enterprise-Grade AKS: A Practitioner's Guidebook](https://aka.ms/ignite25-plans-KubeCon_Learning) |  | LAB502 |
-| [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan) | ODSP1481, ODSP1492 |  |
-| [Migrate application workloads and data to Azure](https://aka.ms/ignite25-plans-MigrateAppWorkloadsDatatoAzure) | BRK123, BRK125, BRK159, BRK172, BRK174, BRK368 | LAB500, LAB501 |
-| [SAP on the Microsoft Cloud for business transformation](https://aka.ms/ignite25-plans-MigrateSAPPlan) | BRK161, BRK163, BRK165 |  |
-| [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions) | THR725 |  |
-| [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate) | ODSP1408, ODSP1421, ODSP1422, ODSP1424, ODSP1435, ODSP1437, ODSP1453, ODSP1467, ODSP1510, THR700, THR701, THR704, THR709, THR710, THR711, THR712, THR715, THR717, THR718, THR719, THR735, THR736, THR737, THR796, THR834, THRSP852, THRSP869, THRSP887, THRSP902, THRSP903, THRSP910, THRSP923, THRSP924, THRSP943, THRSP944, THRSP956 |  |
-| [Migrate VMware Workloads to Azure](https://aka.ms/ignite25-plans-migrateAVS) | BRK141, BRK157, BRK158 | LAB503 |
-| [Migrate Linux and PostgreSQL workloads on Azure](https://aka.ms/ignite25-plans-migrateLinuxPostgreSQL) | BRK104, BRK124, BRK143, BRK144 | LAB505 |
-| [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrateWSPlan) | BRK139, BRK140, BRK142, BRK145, BRK147, BRK148, BRK155, BRK156, BRK160, BRK162, BRK164, BRK167, BRK168, BRK170, BRK171, BRK173, BRK175, BRK176, BRK177, BRK178, BRK179, BRK181, BRK183, BRK184, BRK430, BRK431, BRK432, BRKSP466, PREB08 | LAB504, LAB520, LAB597, PREL20 |
-| [Migrate Windows Server and VMware workloads on Azure to be AI-Read](https://aka.ms/ignite25-plans-migrateWSVMAIReady) | BRK138, BRK180 |  |
-| [Protect cloud infrastructure and apps with Azure Security](https://aka.ms/ignite25-plans-protectcloud) | ODSP1403, ODSP1521 |  |
-| [Enable secure and scalable endpoint experiences with Cloud and AI](https://aka.ms/ignite25-plans-scalecloud) | ODSP1488, ODSP1513 |  |
-| [Unknown Plan](https://aka.ms/ignite25plan_agenticsolutions) | BRK1735, BRK1736, BRK1737, BRK1738 |  |
-| [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25plan_migrate) | ODLAB501, ODLAB504, ODLAB505 |  |
+#### Labs Repositories
+
+- [LAB500 - Unified Observability And Optimization With Azure Operations Platform](https://github.com/microsoft/ignite25-LAB500-unified-observability-and-optimization-with-azure-operations-platform)
+- [LAB501 - Modernizing Aspnet Applications With Azure Migrate And Github Copilot](https://github.com/microsoft/ignite25-LAB501-modernizing-aspnet-applications-with-azure-migrate-and-github-copilot)
+- [LAB502 - Migrate To Aks Automatic With Github Copilot For App Modernization](https://github.com/microsoft/ignite25-LAB502-migrate-to-aks-automatic-with-github-copilot-for-app-modernization)
+- [LAB503 - Avs From Migration And Optimization To Modernization](https://github.com/microsoft/ignite25-LAB503-avs-from-migration-and-optimization-to-modernization)
+- [LAB504 - Connect Secure And Manage Hybrid Multicloud And Edge With Azure Arc](https://github.com/microsoft/ignite25-LAB504-connect-secure-and-manage-hybrid-multicloud-and-edge-with-azure-arc)
+- [LAB505 - Fast Track Your Linux Migration Journey With Azure Migrate Infrastructure](https://github.com/microsoft/ignite25-LAB505-fast-track-your-linux-migration-journey-with-azure-migrate-infrastructure)
+- [LAB506 - Migrate And Modernize Windows And Sql Server Workloads To Azure](https://github.com/microsoft/ignite25-LAB506-migrate-and-modernize-windows-and-sql-server-workloads-to-azure)
+- [LAB520 - Test Your Resiliency Posture Goals Drills Recovery Orchestration](https://github.com/microsoft/ignite25-LAB520-test-your-resiliency-posture-goals-drills-recovery-orchestration)
+- [LAB597 - Make More Informed Decisions With Geospatial Intelligence](https://github.com/microsoft/ignite25-LAB597-make-more-informed-decisions-with-geospatial-intelligence)
+- [PREL20 - Modernize It Estate A Hands On Workshop For Portfolio Transformation](https://github.com/microsoft/ignite25-PREL20-modernize-it-estate-a-hands-on-workshop-for-portfolio-transformation)
+
+#### Learning Plans
+
+- [App modernization for AI-readiness with Azure apps and data solutions](https://aka.ms/ignite25-plans-AAI_TDMApps_Plan)
+- [Unknown Plan](https://aka.ms/ignite25-plans-AzureCloudScaleDB)
+- [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-CreateAgenticAISolutions)
+- [From Kubernetes to Enterprise-Grade AKS: A Practitioner's Guidebook](https://aka.ms/ignite25-plans-KubeCon_Learning)
+- [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan)
+- [Migrate application workloads and data to Azure](https://aka.ms/ignite25-plans-MigrateAppWorkloadsDatatoAzure)
+- [SAP on the Microsoft Cloud for business transformation](https://aka.ms/ignite25-plans-MigrateSAPPlan)
+- [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions)
+- [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate)
+- [Migrate VMware Workloads to Azure](https://aka.ms/ignite25-plans-migrateAVS)
+- [Migrate Linux and PostgreSQL workloads on Azure](https://aka.ms/ignite25-plans-migrateLinuxPostgreSQL)
+- [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrateWSPlan)
+- [Migrate Windows Server and VMware workloads on Azure to be AI-Read](https://aka.ms/ignite25-plans-migrateWSVMAIReady)
+- [Protect cloud infrastructure and apps with Azure Security](https://aka.ms/ignite25-plans-protectcloud)
+- [Enable secure and scalable endpoint experiences with Cloud and AI](https://aka.ms/ignite25-plans-scalecloud)
+- [Unknown Plan](https://aka.ms/ignite25plan_agenticsolutions)
+- [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25plan_migrate)
 
 ### UNIFY YOUR DATA PLATFORM
 
-| Plan name | Session alignment | Lab alignment |
-|-----------|-------------------|---------------|
-| [Unknown Plan](https://aka.ms/ignite25-plans-AzureDatabricks_TYD) | BRK136 |  |
-| [Transform data for AI solutions with Azure Databricks](https://aka.ms/ignite25-plans-AzureDatabricks_UYDforAI) | BRK128 | LAB531, LAB535 |
-| [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan) | BRK129, BRK137, BRK222, BRK223, BRK224, BRK227, BRK380, BRK385, ODSP1447, ODSP1499, THR706, THR707, THR708, THR738, THR739, THR740, THR833 | LAB530, PREL14 |
-| [Elevate your Microsoft Fabric data engineering skills: Prepare for DP-700 Exam](https://aka.ms/ignite25-plans-MicrosoftFabricDataEngineeringPlan) | BRK130, BRK131, BRK132, BRK133, BRK134, BRK135, BRK220, BRK221, BRK225, BRK229, BRK367, BRK375 | LAB533 |
-| [Build Real-Time Data Solutions with Real-Time Intelligence in Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricRTIPlan) | BRK226, BRK228 | LAB532, LAB534 |
-| [Establish and enhance proactive security operations](https://aka.ms/ignite25-plans-ProactiveSecurityOps) | THRSP885, THRSP912, THRSP913 |  |
-| [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions) | THR724 |  |
-| [Unknown Plan](https://aka.ms/ignite25plan_agenticsolutions) | BRK1739 |  |
-| [Unknown Plan](https://aka.ms/ignite25plan_fabric) | ODLAB530, ODLAB533 |  |
+#### Labs Repositories
+
+- [LAB530 - Build New Ai Applications With Azure Sql Databases](https://github.com/microsoft/ignite25-LAB530-build-new-ai-applications-with-azure-sql-databases)
+- [LAB531 - Accelerate Bi With Azure Databricks In The Era Of Ai](https://github.com/microsoft/ignite25-LAB531-accelerate-bi-with-azure-databricks-in-the-era-of-ai)
+- [LAB532 - Get Real With Real Time Intelligence To Transform Data Into Action](https://github.com/microsoft/ignite25-LAB532-get-real-with-real-time-intelligence-to-transform-data-into-action)
+- [LAB533 - Develop Scalable Data Solutions With Sql Database In Microsoft Fabric](https://github.com/microsoft/ignite25-LAB533-develop-scalable-data-solutions-with-sql-database-in-microsoft-fabric)
+- [LAB534 - Build Real Time Analytics With Cosmos Db In Microsoft Fabric](https://github.com/microsoft/ignite25-LAB534-build-real-time-analytics-with-cosmos-db-in-microsoft-fabric)
+- [LAB535 - Azure Databricks In Action Unified Ai And Analytics Across Microsoft](https://github.com/microsoft/ignite25-LAB535-azure-databricks-in-action-unified-ai-and-analytics-across-microsoft)
+- [PREL14 - Unify Data Act On Insights And Build Ai Solutions With Microsoft Fabric](https://github.com/microsoft/ignite25-PREL14-unify-data-act-on-insights-and-build-ai-solutions-with-microsoft-fabric)
+
+#### Learning Plans
+
+- [Unknown Plan](https://aka.ms/ignite25-plans-AzureDatabricks_TYD)
+- [Transform data for AI solutions with Azure Databricks](https://aka.ms/ignite25-plans-AzureDatabricks_UYDforAI)
+- [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan)
+- [Elevate your Microsoft Fabric data engineering skills: Prepare for DP-700 Exam](https://aka.ms/ignite25-plans-MicrosoftFabricDataEngineeringPlan)
+- [Build Real-Time Data Solutions with Real-Time Intelligence in Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricRTIPlan)
+- [Establish and enhance proactive security operations](https://aka.ms/ignite25-plans-ProactiveSecurityOps)
+- [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions)
+- [Unknown Plan](https://aka.ms/ignite25plan_agenticsolutions)
+- [Unknown Plan](https://aka.ms/ignite25plan_fabric)
 
 ## SECURITY
 
 ### MODERNIZE SECOPS WITH A UNIFIED PLATFORM
 
-| Plan name | Session alignment | Lab alignment |
-|-----------|-------------------|---------------|
-| [Becoming Frontier: Empowering AI adoption through skills development](https://aka.ms/ignite25-plans-BuildingResilientSecurity) | BRK236, BRK244 |  |
-| [Control access, protect identities with Microsoft Entra](https://aka.ms/ignite25-plans-ControlProtectMicrosoftEntra) | BRK242, BRK243 |  |
-| [Microsoft Sentinel: The AI-ready security platform](https://aka.ms/ignite25-plans-MicrosoftSentinelAISecurity) | BRK235 |  |
-| [Protect against ransomware and phishing](https://aka.ms/ignite25-plans-Plan_Security6) | BRK239, BRK240 |  |
-| [Predict and defend against threats with Microsoft Defender powered by AI](https://aka.ms/ignite25-plans-PredictAndDefendMicrosoftDefender) | BRK241, BRK246 |  |
-| [Establish and enhance proactive security operations](https://aka.ms/ignite25-plans-ProactiveSecurityOps) | BRK237, BRK238, BRK245, BRK384 | LAB540, LAB541, LAB542, LAB543, LAB546, LAB549 |
-| [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate) | THR745, THR746, THR747, THR748, THR840 |  |
-| [Unknown Plan](https://aka.ms/ignite25plan_secops) | ODLAB541, ODLAB549, THR744, THR749 |  |
-| [Unknown Plan](https://aka.ms/ignite25plan_securedata) | BRK1731 |  |
+#### Labs Repositories
+
+- [LAB540 - Microsoft Purview Integration With Microsoft Defender Xdr](https://github.com/microsoft/ignite25-LAB540-microsoft-purview-integration-with-microsoft-defender-xdr)
+- [LAB541 - Defend Against Threats With Microsoft Defender Xdr](https://github.com/microsoft/ignite25-LAB541-defend-against-threats-with-microsoft-defender-xdr)
+- [LAB542 - Zero Trust Lab Securing Identities And Devices With Intune And Entra](https://github.com/microsoft/ignite25-LAB542-zero-trust-lab-securing-identities-and-devices-with-intune-and-entra)
+- [LAB543 - Perform Threat Hunting In Microsoft Sentinel](https://github.com/microsoft/ignite25-LAB543-perform-threat-hunting-in-microsoft-sentinel)
+- [LAB546 - Securing The Stack Zero Trust For Data Infra Network And Soc](https://github.com/microsoft/ignite25-LAB546-securing-the-stack-zero-trust-for-data-infra-network-and-soc)
+- [LAB549 - Strengthen Your Identity Security Posture With Conditional Access](https://github.com/microsoft/ignite25-LAB549-strengthen-your-identity-security-posture-with-conditional-access)
+
+#### Learning Plans
+
+- [Becoming Frontier: Empowering AI adoption through skills development](https://aka.ms/ignite25-plans-BuildingResilientSecurity)
+- [Control access, protect identities with Microsoft Entra](https://aka.ms/ignite25-plans-ControlProtectMicrosoftEntra)
+- [Microsoft Sentinel: The AI-ready security platform](https://aka.ms/ignite25-plans-MicrosoftSentinelAISecurity)
+- [Protect against ransomware and phishing](https://aka.ms/ignite25-plans-Plan_Security6)
+- [Predict and defend against threats with Microsoft Defender powered by AI](https://aka.ms/ignite25-plans-PredictAndDefendMicrosoftDefender)
+- [Establish and enhance proactive security operations](https://aka.ms/ignite25-plans-ProactiveSecurityOps)
+- [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate)
+- [Unknown Plan](https://aka.ms/ignite25plan_secops)
+- [Unknown Plan](https://aka.ms/ignite25plan_securedata)
 
 ### PROTECT CLOUD AI PLATFORM AND APPS
 
-| Plan name | Session alignment | Lab alignment |
-|-----------|-------------------|---------------|
-| [Control access, protect identities with Microsoft Entra](https://aka.ms/ignite25-plans-ControlProtectMicrosoftEntra) | BRK260 |  |
-| [Strengthen cloud security posture and DevOps protection](https://aka.ms/ignite25-plans-Plan_Security16) | BRK266 |  |
-| [Securing AI: Protect, Govern, and Defend](https://aka.ms/ignite25-plans-SecuringAIProtectGovernDefend) | BRK261, BRK264, BRK265, BRK267, BRK268, BRK269 |  |
-| [Protect cloud infrastructure and apps with Azure Security](https://aka.ms/ignite25-plans-protectcloud) | BRK262, BRK263, BRKSP472, BRKSP475, BRKSP487, ODSP1441, ODSP1472, ODSP1509, THR755, THR756, THR757, THR832, THRSP853, THRSP860, THRSP861, THRSP921 | LAB544, LAB550, LAB551 |
-| [Unknown Plan](https://aka.ms/ignite25plan_protectcloud) | ODLAB544, ODLAB550, ODLAB551, THR758 |  |
-| [Unknown Plan](https://aka.ms/ignite25plan_securedata) | BRK1733 |  |
+#### Labs Repositories
+
+- [LAB544 -  Govern Identities With Confidence Using Microsoft Entra](https://github.com/microsoft/ignite25-LAB544--govern-identities-with-confidence-using-microsoft-entra)
+- [LAB550 - Mitigating Cloud Threats With Microsoft Defender For Cloud](https://github.com/microsoft/ignite25-LAB550-mitigating-cloud-threats-with-microsoft-defender-for-cloud)
+- [LAB551 - Maximizing Cloud Security Cspm In Microsoft Defender Cloud](https://github.com/microsoft/ignite25-LAB551-maximizing-cloud-security-cspm-in-microsoft-defender-cloud)
+
+#### Learning Plans
+
+- [Control access, protect identities with Microsoft Entra](https://aka.ms/ignite25-plans-ControlProtectMicrosoftEntra)
+- [Strengthen cloud security posture and DevOps protection](https://aka.ms/ignite25-plans-Plan_Security16)
+- [Securing AI: Protect, Govern, and Defend](https://aka.ms/ignite25-plans-SecuringAIProtectGovernDefend)
+- [Protect cloud infrastructure and apps with Azure Security](https://aka.ms/ignite25-plans-protectcloud)
+- [Unknown Plan](https://aka.ms/ignite25plan_protectcloud)
+- [Unknown Plan](https://aka.ms/ignite25plan_securedata)
 
 ### SECURE YOUR DATA
 
-| Plan name | Session alignment | Lab alignment |
-|-----------|-------------------|---------------|
-| [Becoming Frontier: Empowering AI adoption through skills development](https://aka.ms/ignite25-plans-BuildingResilientSecurity) | BRK254 |  |
-| [Manage insider risk and help prevent data loss](https://aka.ms/ignite25-plans-ManageInsiderRisk) | BRK255, BRK256 |  |
-| [Protect sensitive data with Microsoft Purview](https://aka.ms/ignite25-plans-ProtectDataMicrosoftPurview) | BRK250, BRK253, BRK257 |  |
-| [Protect and govern your data with confidence](https://aka.ms/ignite25-plans-ProtectGovernDataConfidence) | BRK251, BRK252 |  |
-| [Secure and Manage Devices with Microsoft Intune](https://aka.ms/ignite25-plans-SecureDevicesMicrosoftIntune) | BRK258 |  |
-| [Secure your organization's data and information](https://aka.ms/ignite25-plans-securedata) | BRK381, BRK383, ODSP1402, ODSP1427, ODSP1434, ODSP1476, ODSP1502, ODSP1507, ODSP1523, PREB12, THR750, THR751, THR752, THR839, THRSP855, THRSP863, THRSP866, THRSP884, THRSP893, THRSP896, THRSP906, THRSP909, THRSP917, THRSP922, THRSP938, THRSP942 | LAB545, LAB547, LAB548, PREL18 |
-| [Unknown Plan](https://aka.ms/ignite25plan_securedata) | BRK1732, BRK270, ODLAB545, ODLAB547, ODLAB548, THR753 |  |
+#### Labs Repositories
+
+- [LAB545 - Manage Sensitive Data Using Information Protection In The Age Of Ai](https://github.com/microsoft/ignite25-LAB545-manage-sensitive-data-using-information-protection-in-the-age-of-ai)
+- [LAB547 - Implement Insider Risk Management And Adaptive Protection](https://github.com/microsoft/ignite25-LAB547-implement-insider-risk-management-and-adaptive-protection)
+- [LAB548 - Implement And Manage Data Loss Prevention Policies](https://github.com/microsoft/ignite25-LAB548-implement-and-manage-data-loss-prevention-policies)
+- [PREL18 - Secure Your M365 Tenant From Defaults To Ai Ready](https://github.com/microsoft/ignite25-PREL18-secure-your-m365-tenant-from-defaults-to-ai-ready)
+
+#### Learning Plans
+
+- [Becoming Frontier: Empowering AI adoption through skills development](https://aka.ms/ignite25-plans-BuildingResilientSecurity)
+- [Manage insider risk and help prevent data loss](https://aka.ms/ignite25-plans-ManageInsiderRisk)
+- [Protect sensitive data with Microsoft Purview](https://aka.ms/ignite25-plans-ProtectDataMicrosoftPurview)
+- [Protect and govern your data with confidence](https://aka.ms/ignite25-plans-ProtectGovernDataConfidence)
+- [Secure and Manage Devices with Microsoft Intune](https://aka.ms/ignite25-plans-SecureDevicesMicrosoftIntune)
+- [Secure your organization's data and information](https://aka.ms/ignite25-plans-securedata)
+- [Unknown Plan](https://aka.ms/ignite25plan_securedata)
 
 ## AI BUSINESS SOLUTIONS
 
 ### AGENTIC BUSINESS APPLICATIONS
 
-| Plan name | Session alignment | Lab alignment |
-|-----------|-------------------|---------------|
-| [Create agentic business applications for business leaders](https://aka.ms/ignite25-plans-agenticbusinessapps) | BRK350, BRK351, BRK352, BRK353, BRK354, BRK355, BRK356, BRKSP464, BRKSP477, BRKSP484, BRKSP488, BRKSP490, ODSP1418, ODSP1425, ODSP1433, ODSP1471, ODSP1497, THR790, THR791, THRSP857, THRSP868, THRSP876, THRSP877, THRSP892, THRSP919, THRSP927, THRSP930, THRSP931 |  |
-| [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate) | ODSP1432 |  |
-| [Unknown Plan](https://aka.ms/ignite25plan_agenticbusinessapps) | THR792, THR794 |  |
+#### Learning Plans
+
+- [Create agentic business applications for business leaders](https://aka.ms/ignite25-plans-agenticbusinessapps)
+- [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate)
+- [Unknown Plan](https://aka.ms/ignite25plan_agenticbusinessapps)
 
 ### COPILOT AND AGENTS AT WORK
 
-| Plan name | Session alignment | Lab alignment |
-|-----------|-------------------|---------------|
-| [Enhance your AI business solutions with Copilot and agents at work](https://aka.ms/ignite25-plans-copilotagents) | BRK276, BRK277, BRK278, BRK279, BRK280, BRK281, BRK282, BRK283, BRK284, BRK285, BRK286, BRK287, BRK288, BRK289, BRK290, BRK291, BRK292, BRK293, BRK294, BRK295, BRK296, BRK297, BRK298, BRK299, BRK300, BRK365, BRK369, BRK370, BRK371, BRK372, BRK377, BRK378, BRK379, BRKSP450, BRKSP451, BRKSP461, BRKSP462, BRKSP469, BRKSP470, BRKSP473, BRKSP486, ODSP1410, ODSP1414, ODSP1430, ODSP1457, ODSP1486, ODSP1498, ODSP1505, ODSP1511, ODSP1512, THR759, THR760, THR761, THR762, THR763, THR764, THR765, THR766, THR767, THR830, THR838, THRSP862, THRSP878, THRSP880, THRSP883, THRSP886, THRSP897, THRSP908, THRSP916, THRSP928, THRSP929, THRSP939, THRSP945, THRSP947 | LAB560, LAB562, LAB564, LAB565, LAB568, LAB590, PREL17 |
-| [Unknown Plan](https://aka.ms/ignite25plan_copilotagents) | JSBRK274, ODLAB564, ODLAB565 |  |
+#### Labs Repositories
+
+- [LAB560 - Building Declarative Agents With Typespec And M365 Agents Toolkit](https://github.com/microsoft/ignite25-LAB560-building-declarative-agents-with-typespec-and-m365-agents-toolkit)
+- [LAB562 - Jumpstart Ai Powered Hr And It Support With Employee Self Service Agent](https://github.com/microsoft/ignite25-LAB562-jumpstart-ai-powered-hr-and-it-support-with-employee-self-service-agent)
+- [LAB564 - Architect A Goal Driven Ai Agent With Copilot Studio](https://github.com/microsoft/ignite25-LAB564-architect-a-goal-driven-ai-agent-with-copilot-studio)
+- [LAB565 - Makers In Action Crafting Microsoft 365 Copilot Agents For Real World](https://github.com/microsoft/ignite25-LAB565-makers-in-action-crafting-microsoft-365-copilot-agents-for-real-world)
+- [LAB568 - Deep Dive Into Teams Admin Center And Security Innovations](https://github.com/microsoft/ignite25-LAB568-deep-dive-into-teams-admin-center-and-security-innovations)
+- [LAB590 - Building Collaborative Agents In Microsoft Teams With Teams Ai Library](https://github.com/microsoft/ignite25-LAB590-building-collaborative-agents-in-microsoft-teams-with-teams-ai-library)
+- [PREL17 - Controlling Costs  Complexity Managing Copilot And Agent Lifecycle](https://github.com/microsoft/ignite25-PREL17-controlling-costs--complexity-managing-copilot-and-agent-lifecycle)
+
+#### Learning Plans
+
+- [Enhance your AI business solutions with Copilot and agents at work](https://aka.ms/ignite25-plans-copilotagents)
+- [Unknown Plan](https://aka.ms/ignite25plan_copilotagents)
 
 ### INNOVATE WITH LOW-CODE AI AND AGENTS
 
-| Plan name | Session alignment | Lab alignment |
-|-----------|-------------------|---------------|
-| [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions) | THRSP867, THRSP875 |  |
-| [Enhance your AI business solutions with Copilot and agents at work](https://aka.ms/ignite25-plans-copilotagents) | ODSP1426 |  |
-| [Innovate with low-code AI and agents](https://aka.ms/ignite25-plans-lowcode) | BRK275, BRK306, BRK308, BRK309, BRK310, BRK311, BRK312, BRK314, BRK315, BRK316, BRK317, BRK318, BRK319, BRK320, BRK321, BRK322, BRK323, BRK324, BRK366, BRKSP479, PBRK307, PBRK313, THR770, THR771, THR772, THR773, THR774, THR775, THR776, THR841, THRSP904, THRSP914, THRSP926, THRSP934, THRSP949 | LAB570, LAB572, LAB595 |
-| [Unknown Plan](https://aka.ms/ignite25plan_lowcode) | BRK305 |  |
-| [Unknown Plan](https://microsoft.com) | TEST103 |  |
+#### Labs Repositories
+
+- [LAB570 - Building Agentic Solutions With Copilot Studio](https://github.com/microsoft/ignite25-LAB570-building-agentic-solutions-with-copilot-studio)
+- [LAB572 - Automate Your Enterprise Workflows With Mcp Tools](https://github.com/microsoft/ignite25-LAB572-automate-your-enterprise-workflows-with-mcp-tools)
+- [LAB595 - Extending Dragon Copilot With Partner Built Ai Solutions](https://github.com/microsoft/ignite25-LAB595-extending-dragon-copilot-with-partner-built-ai-solutions)
+
+#### Learning Plans
+
+- [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions)
+- [Enhance your AI business solutions with Copilot and agents at work](https://aka.ms/ignite25-plans-copilotagents)
+- [Innovate with low-code AI and agents](https://aka.ms/ignite25-plans-lowcode)
+- [Unknown Plan](https://aka.ms/ignite25plan_lowcode)
+- [Unknown Plan](https://microsoft.com)
 
 ### SCALE WITH CLOUD AND AI ENDPOINTS
 
-| Plan name | Session alignment | Lab alignment |
-|-----------|-------------------|---------------|
-| [Agentic Windows](https://aka.ms/ignite25-plans-AgenticWindows) | BRK332, BRK333 |  |
-| [Developer experiences and fundamentals](https://aka.ms/ignite25-plans-DevExperiences) | BRK330, BRK335 |  |
-| [Windows AI Foundry](https://aka.ms/ignite25-plans-WinAIFoundry) | BRK329, BRK331 | LAB584, LAB585 |
-| [Enable secure and scalable endpoint experiences with Cloud and AI](https://aka.ms/ignite25-plans-scalecloud) | BRK301, BRK328, BRK334, BRK336, BRK337, BRK338, BRK339, BRK340, BRK341, BRK342, BRK343, BRK344, BRK345, BRK346, ODSP1450, PREB11, THR779, THR780, THR781, THR782, THR783, THR784, THR785, THR786, THRSP879, THRSP894, THRSP895, THRSP937, THRSP948 | LAB580, LAB581, LAB582, LAB583, LAB587 |
-| [Unknown Plan](https://aka.ms/ignite25plan_scalecloud) | ODLAB584, ODLAB585, THR787 |  |
+#### Labs Repositories
+
+- [LAB580 - Windows 365 Reserve Fast Flexible And Ready For Anything](https://github.com/microsoft/ignite25-LAB580-windows-365-reserve-fast-flexible-and-ready-for-anything)
+- [LAB581 - Windows 365 Frontline Explore Dedicated Shared Cloud Apps ](https://github.com/microsoft/ignite25-LAB581-windows-365-frontline-explore-dedicated-shared-cloud-apps-)
+- [LAB582 - Windows 365 Deployment Lab Cloud Native Zero Trust Fully Ready](https://github.com/microsoft/ignite25-LAB582-windows-365-deployment-lab-cloud-native-zero-trust-fully-ready)
+- [LAB583 - Manage Ai Capabilities For Copilot  Pcs And Windows 11](https://github.com/microsoft/ignite25-LAB583-manage-ai-capabilities-for-copilot--pcs-and-windows-11)
+- [LAB584 - Integrating Local Ai With Windows Ml](https://github.com/microsoft/ignite25-LAB584-integrating-local-ai-with-windows-ml)
+- [LAB585 - Supercharge Your Wpf Apps With Local Ai](https://github.com/microsoft/ignite25-LAB585-supercharge-your-wpf-apps-with-local-ai)
+- [LAB587 - Windows 365 Ai Lab Semantic Federated Search And Click2Do In Action](https://github.com/microsoft/ignite25-LAB587-windows-365-ai-lab-semantic-federated-search-and-click2do-in-action)
+
+#### Learning Plans
+
+- [Agentic Windows](https://aka.ms/ignite25-plans-AgenticWindows)
+- [Developer experiences and fundamentals](https://aka.ms/ignite25-plans-DevExperiences)
+- [Windows AI Foundry](https://aka.ms/ignite25-plans-WinAIFoundry)
+- [Enable secure and scalable endpoint experiences with Cloud and AI](https://aka.ms/ignite25-plans-scalecloud)
+- [Unknown Plan](https://aka.ms/ignite25plan_scalecloud)
 
 ## ADDITIONAL TOPICS
 
 ### MICROSOFT AI CLOUD PARTNER PROGRAM
 
-| Plan name | Session alignment | Lab alignment |
-|-----------|-------------------|---------------|
-| [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan) | PBRK231, PBRK232, PBRK233 |  |
-| [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions) | PBRK208, PBRK209 |  |
-| [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate) | PBRK151, PBRK152, PBRK153, PBRK154 |  |
-| [Unknown Plan](https://aka.ms/ignite25plan_agenticsolutions) | PTHR812, PTHR813, PTHR825, PTHR826, PTHR827 |  |
-| [Unknown Plan](https://aka.ms/ignite25plan_copilotagents) | PKEY02 |  |
-| [Unknown Plan](https://aka.ms/ignite25plan_lowcode) | PBRK326 |  |
-| [Unknown Plan](https://aka.ms/ignite25plan_secops) | PBRK248 |  |
+#### Learning Plans
+
+- [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan)
+- [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions)
+- [Migrate and Secure a Windows Server Workload on Azure](https://aka.ms/ignite25-plans-migrate)
+- [Unknown Plan](https://aka.ms/ignite25plan_agenticsolutions)
+- [Unknown Plan](https://aka.ms/ignite25plan_copilotagents)
+- [Unknown Plan](https://aka.ms/ignite25plan_lowcode)
+- [Unknown Plan](https://aka.ms/ignite25plan_secops)
 
 ### OTHER
 
-| Plan name | Session alignment | Lab alignment |
-|-----------|-------------------|---------------|
-| [Unknown Plan](https://aka.ms/ignite25-plans-BecomingFrontier) | THR814 |  |
-| [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan) | THR742, THR743 |  |
-| [Establish and enhance proactive security operations](https://aka.ms/ignite25-plans-ProactiveSecurityOps) | BRK101 |  |
-| [Enhance your AI business solutions with Copilot and agents at work](https://aka.ms/ignite25-plans-copilotagents) | ODSP1528 |  |
-| [Unknown Plan](https://aka.ms/ignite25plan_copilotagents) | KEY01 |  |
+#### Learning Plans
+
+- [Unknown Plan](https://aka.ms/ignite25-plans-BecomingFrontier)
+- [Build AI-Powered Data Solutions with Microsoft Fabric](https://aka.ms/ignite25-plans-MicrosoftFabricAIDataSolutionsPlan)
+- [Establish and enhance proactive security operations](https://aka.ms/ignite25-plans-ProactiveSecurityOps)
+- [Enhance your AI business solutions with Copilot and agents at work](https://aka.ms/ignite25-plans-copilotagents)
+- [Unknown Plan](https://aka.ms/ignite25plan_copilotagents)
 
 
 ### 🌟 Microsoft Learn MCP Server
