@@ -15,7 +15,6 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 | [Unify your data platform](#unify-your-data-platform) | [Secure your data](#secure-your-data) | [Innovate with low-code AI and agents](#innovate-with-low-code-ai-and-agents) |
 |  |  | [Scale with cloud and AI endpoints](#scale-with-cloud-and-ai-endpoints) |
 
-
 ### Microsoft Learn plans
 
 - [THR814 - Becoming Frontier: Empowering AI adoption through skills development](https://aka.ms/ignite25-plans-BecomingFrontier)
@@ -149,7 +148,7 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 
 #### Skilling Plans
 
-- [Becoming Frontier: Empowering AI adoption through skills development](https://aka.ms/ignite25-plans-BuildingResilientSecurity)
+- [Building Resilient Security with AI-Driven Solutions](https://aka.ms/ignite25-plans-BuildingResilientSecurity)
 - [Control access, protect identities with Microsoft Entra](https://aka.ms/ignite25-plans-ControlProtectMicrosoftEntra)
 - [Microsoft Sentinel: The AI-ready security platform](https://aka.ms/ignite25-plans-MicrosoftSentinelAISecurity)
 - [Protect against ransomware and phishing](https://aka.ms/ignite25-plans-Plan_Security6)
@@ -191,7 +190,7 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 
 #### Skilling Plans
 
-- [Becoming Frontier: Empowering AI adoption through skills development](https://aka.ms/ignite25-plans-BuildingResilientSecurity)
+- [Building Resilient Security with AI-Driven Solutions](https://aka.ms/ignite25-plans-BuildingResilientSecurity)
 - [Manage insider risk and help prevent data loss](https://aka.ms/ignite25-plans-ManageInsiderRisk)
 - [Protect sensitive data with Microsoft Purview](https://aka.ms/ignite25-plans-ProtectDataMicrosoftPurview)
 - [Protect and govern your data with confidence](https://aka.ms/ignite25-plans-ProtectGovernDataConfidence)
@@ -254,7 +253,7 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 | [LAB582 - Windows 365 Deployment Lab Cloud Native Zero Trust Fully Ready](https://github.com/microsoft/ignite25-LAB582-windows-365-deployment-lab-cloud-native-zero-trust-fully-ready) | [Steve Thomas](https://ignite.microsoft.com/speakers/1503eb54-71b6-4fb0-a4cf-0f97e5de57d7), [Venkatesh Naidu](https://ignite.microsoft.com/speakers/2aa9f0d3-7647-4811-8bc9-59a83d348432) |
 | [LAB583 - Manage Ai Capabilities For Copilot  Pcs And Windows 11](https://github.com/microsoft/ignite25-LAB583-manage-ai-capabilities-for-copilot--pcs-and-windows-11) | [Eric Moe](https://ignite.microsoft.com/speakers/2e6cef38-55bb-4038-bfc9-88ef1b45f2bf), [Ken Goossens](https://ignite.microsoft.com/speakers/3e379057-c13f-4f81-a563-e9767be99a73) |
 | [LAB584 - Integrating Local Ai With Windows Ml](https://github.com/microsoft/ignite25-LAB584-integrating-local-ai-with-windows-ml) | [Darshak Bhatti](https://ignite.microsoft.com/speakers/25e0671f-e3c7-4cbc-bd38-33bd11c3bc80), [Siyuan Peng](https://ignite.microsoft.com/speakers/f28fd62b-6c28-4821-813c-3cc7c54bc9c4) |
-| [LAB585 - Supercharge Your Wpf Apps With Local Ai](https://github.com/microsoft/ignite25-LAB585-supercharge-your-wpf-apps-with-local-ai) | [Bruno Sonnino](https://ignite.microsoft.com/speakers/02a19d56-d91f-4b9d-a0b5-00cc4a5a6ae8), [Greg Woo](https://ignite.microsoft.com/speakers/2778fa3c-bb45-41cc-ad6f-b4ee2fc057dc) |
+| [LAB585 - Supercharge Your Apps With Local Ai](https://github.com/microsoft/ignite25-LAB585-supercharge-your-apps-with-local-ai) | [Bruno Sonnino](https://ignite.microsoft.com/speakers/02a19d56-d91f-4b9d-a0b5-00cc4a5a6ae8), [Greg Woo](https://ignite.microsoft.com/speakers/2778fa3c-bb45-41cc-ad6f-b4ee2fc057dc) |
 | [LAB587 - Windows 365 Ai Lab Semantic Federated Search And Click2Do In Action](https://github.com/microsoft/ignite25-LAB587-windows-365-ai-lab-semantic-federated-search-and-click2do-in-action) | [Donna Ryan](https://ignite.microsoft.com/speakers/15812c60-070d-4262-aa70-f5276379d6c9), [Steve Thomas](https://ignite.microsoft.com/speakers/1503eb54-71b6-4fb0-a4cf-0f97e5de57d7) |
 
 #### Skilling Plans
@@ -265,7 +264,6 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 - [Windows AI Foundry](https://aka.ms/ignite25-plans-WinAIFoundry)
 - [Enable secure and scalable endpoint experiences with Cloud and AI](https://aka.ms/ignite25-plans-scalecloud)
 - [Unknown Plan](https://aka.ms/ignite25plan_scalecloud)
-
 
 ### 🌟 Microsoft Learn MCP Server
 
