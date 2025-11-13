@@ -1,9 +1,0 @@
-{
-	"servers": {
-		"Learn MCP Server": {
-			"url": "https://learn.microsoft.com/api/mcp",
-			"type": "http"
-		}
-	},
-	"inputs": []
-}
