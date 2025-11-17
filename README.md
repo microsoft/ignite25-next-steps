@@ -216,7 +216,6 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 
 - [Accelerate Your GitHub Journey](https://aka.ms/ignite25-plans-LearnGitHub)
 - [Enhance your AI business solutions with Copilot and agents at work](https://aka.ms/ignite25-plans-copilotagents)
-- [Unknown Plan](https://www.microsoft.com/en-us/industry/energy)
 
 ### INNOVATE WITH LOW-CODE AI AND AGENTS
 
