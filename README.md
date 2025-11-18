@@ -1,3 +1,8 @@
+<p align="center">
+<img src="img/Banner-ignite-25.png" alt="decorative banner" width="1200"/>
+</p>
+
+
 # 🔥 Microsoft Ignite 2025 Next Steps
 
 After attending Microsoft Ignite 2025, your next steps to continue your learning journey include the resources below. You'll find repositories with shared code and guidance for each of the Labs offered at Microsoft Ignite, as well as Microsoft Learn content featured in Plans for continued learning in your own environment. For beginners and experts, you can enhance your skill-building and stay engaged. Dive into the resources to further your knowledge and apply what you've learned in practical scenarios.
