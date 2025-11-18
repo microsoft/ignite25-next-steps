@@ -56,7 +56,6 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 - [Build and deploy scalable AI apps on Azure Databases](https://aka.ms/ignite25-plans-DBPlans)
 - [Build and govern responsible AI apps and agents with Azure AI Foundry](https://aka.ms/ignite25-plans-ManageGenAILifecycles)
 - [Build Data-Driven AI Solutions with Azure SQL](https://aka.ms/ignite25-plans-AzureSQLAIDevelopment)
-- [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-agenticsolutions)
 - [Create agentic AI solutions by using Azure AI Foundry](https://aka.ms/ignite25-plans-CreateAgenticAISolutions)
 - [Create speech-enabled apps with Azure AI services](https://aka.ms/ignite25-plans-SpeechEnabledApps)
 - [Expand the capabilities for Java apps on Azure](https://aka.ms/ignite25-plans-ExpandCapabilities)
