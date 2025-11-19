@@ -21,7 +21,7 @@ After attending Microsoft Ignite 2025, your next steps to continue your learning
 
 - [THR814 - Becoming Frontier: Empowering AI adoption through skills development](https://aka.ms/ignite25-plans-BecomingFrontier)
 - [THR815 - Expertise in action: Microsoft Credentials for the AI frontier](https://aka.ms/ignite25-plans-LearnCredentials)
-- [THR816 - AI Skills Navigator: Transforming skilling with AI-powered learning](https://aka.ms/ignite25-plans)
+- [THR816 - AI Skills Navigator: Transforming skilling with AI-powered learning](https://aka.ms/ignite25-plans-AISN)
 - [THR817 - Accelerate your GitHub Journey](https://aka.ms/ignite25-plans-LearnGitHub)
 
 ## CLOUD AND AI PLATFORMS
